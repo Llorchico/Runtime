@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="pyRuntimeTV_EPG_HL">
+	<channel id="/es/node/5672">
+		<display-name lang="es">Runtime Acción</display-name>
+		<icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg"/>
+	</channel>
+	<channel id="/node/11372">
+		<display-name lang="es">Cines Verdi</display-name>
+		<icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/04082023_logo_verdi_tv_fila_canales_1920x1080.jpg"/>
+	</channel>
+	<channel id="/es/node/5674">
+		<display-name lang="es">Runtime Comedia</display-name>
+		<icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_comedia_16x9.jpg"/>
+	</channel>
+	<channel id="/node/11374">
+		<display-name lang="es">FeelGood</display-name>
+		<icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/logo_feel_good_fila_canales_1920x1080.jpg"/>
+	</channel>
+	<channel id="/es/node/5676">
+		<display-name lang="es">Runtime Romance</display-name>
+		<icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg"/>
+	</channel>
+	<channel id="/es/node/16425">
+		<display-name lang="es">MyTime Movie Network</display-name>
+		<icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg"/>
+	</channel>
+	<channel id="/es/node/19931">
+		<display-name lang="es">Águila Roja</display-name>
+		<icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/aguilaroja_c_1920x1080_0.jpg"/>
+	</channel>
+	<channel id="/es/node/6582">
+		<display-name lang="es">Runtime Series</display-name>
+		<icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_series_16x9_0.jpg"/>
+	</channel>
+	<channel id="/node/24880">
+		<display-name lang="es">Rebelde</display-name>
+		<icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/QAzPD4zniCaQPONpwXrDlvNnYTRwTbefD50G-nf9KhM.jpg"/>
+	</channel>
+	<channel id="/node/5684">
+		<display-name lang="es">Ana y los 7</display-name>
+		<icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_ana_y_los_7_16x9_v2.jpg"/>
+	</channel>
+	<channel id="/node/5686">
+		<display-name lang="es">Curro Jiménez</display-name>
+		<icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_curro_jimenez_16x9_v2.jpg"/>
+	</channel>
+	<channel id="/node/11370">
+		<display-name lang="es">Film&amp;Co</display-name>
+		<icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/filmco_-_logo_y_fondo_0.jpg"/>
+	</channel>
+	<channel id="/es/node/5682">
+		<display-name lang="es">Runtime Clásicos</display-name>
+		<icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg"/>
+	</channel>
+	<channel id="/es/node/5680">
+		<display-name lang="es">Runtime Thriller</display-name>
+		<icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_thriller_16x9.jpg"/>
+	</channel>
+	<channel id="/node/5678">
+		<display-name lang="es">Runtime Crimen</display-name>
+		<icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crimen_16x9.jpg"/>
+	</channel>
+	<channel id="/node/11234">
+		<display-name lang="es">Sangre Fría</display-name>
+		<icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/f5457ac0-sangre_fria_1920x1080_0.jpg"/>
+	</channel>
+	<channel id="/node/11368">
+		<display-name lang="es">Pocoyó</display-name>
+		<icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/pocoyo_-_logo_y_fondo_0.jpg"/>
+	</channel>
+	<channel id="/node/10078">
+		<display-name lang="es">Runtime Familia</display-name>
+		<icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9_2.jpg"/>
+	</channel>
+	<channel id="pitufo-tv">
+		<display-name lang="es">Pitufo TV</display-name>
+		<icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/YJek0f2QAJvIDykEd5e_U3h3kGLUZa_93MvdnXAMDB4.jpg"/>
+	</channel>
+	<channel id="/node/10409">
+		<display-name lang="es">Corazón</display-name>
+		<icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/KTc3gRKJcyqG7d4VOOn1ZJrx1lvd_M2EYVVbyihgT5I.jpg"/>
+	</channel>
+	<programme start="20260802085400 +0200" stop="20260802104200 +0200" channel="/es/node/5672">
+		<title lang="es">Perdidos En El Sol</title>
+		<desc lang="es">La historia de John, un delincuente de poca monta, que encuentra un inesperado cómplice en Louis, un adolescente que acaba de quedarse huérfano.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/lost_in_the_sun_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802104200 +0200" stop="20260802122000 +0200" channel="/es/node/5672">
+		<title lang="es">Elimination Game</title>
+		<desc lang="es">En un futuro próximo, un Navy SEAL acusado injustamente de crímenes de guerra recibe una oportunidad para recuperar su libertad participando en un programa de televisión en el que debe superar en ingenio a otros asesinos profesionales para sobrevivir.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/elimination_game_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802122000 +0200" stop="20260802140000 +0200" channel="/es/node/5672">
+		<title lang="es">The Quest: En busca de la ciudad perdida</title>
+		<desc lang="es">Un grupo de soldados de fortuna visita una legendaria "Ciudad Perdida", ubicada en el Tíbet. Planean robar una estatua invaluable.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/the_quest_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802140000 +0200" stop="20260802155300 +0200" channel="/es/node/5672">
+		<title lang="es">Asesinos a Sueldo</title>
+		<desc lang="es">Traicionado por aquellos en quienes más confiaba, un sicario novato del gobierno descubre que es el objetivo del asesino más peligroso del mundo y comienza un juego despiadado de matar primero o ser asesinado.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/contract_killers_thumbnail_16x9_widescreen_las.jpg"/>
+	</programme>
+	<programme start="20260802155300 +0200" stop="20260802172600 +0200" channel="/es/node/5672">
+		<title lang="es">Campus Code</title>
+		<desc lang="es">Presintiendo que algo va mal en su campus universitario, un grupo de estudiantes emprende una búsqueda en la que deberán sobrevivir a fuerzas desconocidas para encontrar respuestas. Tendrán que luchar para salir con vida, enfrentándose a guardias, griefers y, en ocasiones, entre ellos mismos.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/campus_code_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802172600 +0200" stop="20260802191400 +0200" channel="/es/node/5672">
+		<title lang="es">Perdidos En El Sol</title>
+		<desc lang="es">La historia de John, un delincuente de poca monta, que encuentra un inesperado cómplice en Louis, un adolescente que acaba de quedarse huérfano.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/lost_in_the_sun_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802191400 +0200" stop="20260802205200 +0200" channel="/es/node/5672">
+		<title lang="es">Elimination Game</title>
+		<desc lang="es">En un futuro próximo, un Navy SEAL acusado injustamente de crímenes de guerra recibe una oportunidad para recuperar su libertad participando en un programa de televisión en el que debe superar en ingenio a otros asesinos profesionales para sobrevivir.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/elimination_game_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802205200 +0200" stop="20260802223000 +0200" channel="/es/node/5672">
+		<title lang="es">The Quest: En busca de la ciudad perdida</title>
+		<desc lang="es">Un grupo de soldados de fortuna visita una legendaria "Ciudad Perdida", ubicada en el Tíbet. Planean robar una estatua invaluable.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/the_quest_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802223000 +0200" stop="20260803001300 +0200" channel="/es/node/5672">
+		<title lang="es">Inferno</title>
+		<desc lang="es">Un hombre conduce por el desierto cuando unos hombres le roban la moto y lo dan por muerto. Sobrevive y deja de pensar en suicidarse, ya que ahora tiene un propósito en la vida: vengarse y recuperar la moto.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/inferno_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260803001300 +0200" stop="20260803020000 +0200" channel="/es/node/5672">
+		<title lang="es">Soldado Universal 3: Regeneración</title>
+		<desc lang="es">Cuando un equipo de radicales de la antigua Unión Soviética se apodera de Chernobyl, lugar de la terrible catástrofe nuclear, y amenaza con desatar una nube radiactiva cien veces más mortífera que Hiroshima y Nagasaki juntas, el ejército de los EE.UU. decide volver a poner en circulación a Luc Deveraux (Van Damme), un supersoldado mejorado mediante bio-ingeniería, para que frustre el complot. Llegar hasta la planta no será un camino de rosas ya que su antiguo enemigo Andrew Scott (Dolph Lundgren) también ha revivido y junto a él encontrará a un Unisol de nueva generación (el ex campeón peso pesado de la UFC, Andrei Arlovski).</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/universal_soldier_3_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260803020000 +0200" stop="20260803032400 +0200" channel="/es/node/5672">
+		<title lang="es">Treasure Hunters</title>
+		<desc lang="es">Dos equipos de buscadores de tesoros realizan una excavación ilegal en la isla de Corregidor, Filipinas, para encontrar el oro desaparecido enterrado por los japoneses imperiales durante la Segunda Guerra Mundial.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/treasure_hunters_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260803032400 +0200" stop="20260803060600 +0200" channel="/es/node/5672">
+		<title lang="es">Brimstone</title>
+		<desc lang="es">Una joven mujer huye de un predicador vengativo en el Salvaje Oeste, enfrentando peligros y revelaciones sobre su oscuro pasado.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/brimstone_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802070200 +0200" stop="20260802101100 +0200" channel="/node/11372">
+		<title lang="es">Don Giovanni</title>
+		<desc lang="es">En la Sevilla del siglo XVII, Don Giovanni es un seductor sin escrúpulos, un libertino que atrae sobre sí el odio y el deseo de venganza de poderosos enemigos, aunque él mismo no lo descubre hasta que, quizás, sea demasiado tarde... Adaptación cinematográfica de la ópera de Mozart.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11371_202608_-Qwsq5f1byrYtooF-yqz0x_I_HpBmvUzWzTwK22Vcf8.jpg"/>
+	</programme>
+	<programme start="20260802101100 +0200" stop="20260802115000 +0200" channel="/node/11372">
+		<title lang="es">Despertando a Ned</title>
+		<desc lang="es">Tullymore es un pequeño e idílico pueblo irlandés cuya tranquilidad se rompe cuando a uno de sus 52 habitantes le toca el primer premio de la lotería. Se trata de Ned, un anciano sin familia que es encontrado muerto ese mismo día con el billete premiado entre las manos y una sonrisa de felicidad en el rostro. Jackie y su mejor amigo Michael deciden hacerse pasar por Ned para reclamar el premio.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11371_202608__j7VK5CxOgskIh8owH4ofe8hstCseq8Opdt3d7NSfAo.jpg"/>
+	</programme>
+	<programme start="20260802115000 +0200" stop="20260802132800 +0200" channel="/node/11372">
+		<title lang="es">Buenos días</title>
+		<desc lang="es">Como todos los días los componentes de una familia cualquiera se disponen a afrontar sus problemas, sueños y realidades. El padre con los altibajos de su trabajo, las exigencias de sus hijos y su educación. La madre, preocupada por emplear bien el dinero y las múltiples complicaciones de la vida doméstica. Y los hijos obsesionados por tener televisión en casa.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11371_202608_bsS2JEd0Y_8aVBayS37Wl9BBWLJzmVWvDPQZ-d5NAJw.jpg"/>
+	</programme>
+	<programme start="20260802132800 +0200" stop="20260802152300 +0200" channel="/node/11372">
+		<title lang="es">Consejo de guerra</title>
+		<desc lang="es">Sudáfrica, 1901. Tres lugartenientes australianos son sometidos a un consejo de guerra por asesinato. El oficial encargado del proceso lee las notas preliminares que implican a Harry Harbord ‘Breaker’ Morant, George Witton y Peter Handcock de la muerte de un misionero alemán y de varios prisioneros Boer confinados en una prisión custodiada por el ejército inglés. El oficial defensor, el Comandante Thomas, entiende que el proceso presenta ciertas irregularidades.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11371_202608_MqYyBSOHxAMi7vWeGtZhahHCST_zvJlicoMbvUXZr-k.jpg"/>
+	</programme>
+	<programme start="20260802152300 +0200" stop="20260802171300 +0200" channel="/node/11372">
+		<title lang="es">El liquidador</title>
+		<desc lang="es">Una pareja de tendencias voyeurísticas, un tasador de seguros obsesionado con solucionar la vida a sus clientes, y una censora de películas pornográficas, se convierten en sujetos cinematográficos por el capricho sexual de sus vecinos.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11371_202608_mmkYYKNVr_zgUtKBnCAcDbEvw-VeIAvjV4lUo0rw6Gg.jpg"/>
+	</programme>
+	<programme start="20260802171300 +0200" stop="20260802185800 +0200" channel="/node/11372">
+		<title lang="es">Enigma</title>
+		<desc lang="es">Alex Holbeck, desertor de Alemania Oriental convertido en agente de la CIA, es elegido para descubrir los nombres de cinco disidentes soviéticos a los que persigue un despiadado escuadrón de la KGB. Al llegar a Berlín Oriental, la tapadera de Alex se descubre rápidamente y busca refugio con su examante, Karen.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11371_202608_tyWDNy85QMhZZ0fXNcVBdgYsKgo29oxuf_ZSv4DvQWc.jpg"/>
+	</programme>
+	<programme start="20260802185800 +0200" stop="20260802203900 +0200" channel="/node/11372">
+		<title lang="es">Orlando</title>
+		<desc lang="es">Después de que la reina Isabel I le ordena no envejecer, un joven noble lucha con el amor y su lugar en el mundo.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11371_202608_V5CeD5ny4MfwQAEX1ebrEr8vJXqHnO7G2NhPf-UK8rA.jpg"/>
+	</programme>
+	<programme start="20260802203900 +0200" stop="20260802222300 +0200" channel="/node/11372">
+		<title lang="es">Walkabout</title>
+		<desc lang="es">Dos jóvenes hermanos británicos vagan por el desierto australiano, abandonados a su suerte, tras haberse suicidado su padre. Perdidos en el vasto paisaje, se encuentran con un niño aborigen que lleva a cabo un rito de iniciación en la madurez que le obliga a pasar meses enteros viviendo de la tierra.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11371_202608_BLAH1T-qu3DSZRIeT8gzvMIRVgkbDtvjRHYVONsOIUc.jpg"/>
+	</programme>
+	<programme start="20260802222300 +0200" stop="20260802235300 +0200" channel="/node/11372">
+		<title lang="es">Sexy beast</title>
+		<desc lang="es">Tras haber pasado una temporada entre rejas, Gal Dove vive ahora felizmente retirado en un chalet de la Costa del Sol española, junto a su mujer, a quien adora. Sin embargo, su felicidad se empaña con la llegada de Don Logan, un antiguo compinche que intenta convencerle de que vuelva a Londres para un último gran golpe.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11371_202608_IvTdBoaUjHSCkrk-cLO0WylxXGkxuR8Nem7KESxMDbE.jpg"/>
+	</programme>
+	<programme start="20260802235300 +0200" stop="20260803013600 +0200" channel="/node/11372">
+		<title lang="es">Todo va bien</title>
+		<desc lang="es">Francia después del mayo del '68. Un matrimonio en crisis, en una sociedad en crisis, se queda atrapado en una fábrica debido a la huelga de los trabajadores. Godard disecciona la estructura de la sociedad, del cine, el amor y la revolución. ¿Puede el amor sobrevivir a la revolución?</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11371_202608_otD7ophh6NxoqKEIBmoKMqrMM-24M83__QbS8t-001o.jpg"/>
+	</programme>
+	<programme start="20260803013600 +0200" stop="20260803035900 +0200" channel="/node/11372">
+		<title lang="es">Verano asesino</title>
+		<desc lang="es">Elle, una bella y provocadora joven de 19 años, regresa a su pueblo natal en la Provenza acompañada de su madre y su padre adoptivo paralítico. El magnetismo sexual de la chica despierta la atracción de los hombres de la población, en especial de un mecánico llamado Pin Pon. Nadie puede sospechar que la actitud de Elle responde a un oscuro plan de venganza.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11371_202608_ymeFBMzafufR3Cucpa-SZHMs-D0TdzcnzLOMvFf_lok.jpg"/>
+	</programme>
+	<programme start="20260803035900 +0200" stop="20260803055600 +0200" channel="/node/11372">
+		<title lang="es">Padre patrón</title>
+		<desc lang="es">La historia real de Gavino Ledda, que fue obligado por su autoritario e ignorante padre a dejar la escuela para trabajar en el campo. El servicio militar le alejó de la autoridad paterna. De esta manera, pudo salir del pueblo y corregir su incultura. Más tarde volvió a casa y se reencontró con su padre.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11371_202608_wBT5JPQNX44vCpeLccfwdvpkENUk42oXjSGz3NV6qcY.jpg"/>
+	</programme>
+	<programme start="20260802074600 +0200" stop="20260802094900 +0200" channel="/es/node/5674">
+		<title lang="es">Nowhere</title>
+		<desc lang="es">Años 80. En un país latinoamericano, su dictador ha ideado un siniestro plan para justificar la permanencia del ejército en el poder. Sus servicios secretos secuestran a un grupo de opositores entre los que se encuentran un estudiante aficionado al boxeo, un cocinero homosexual, un profesor desilusionado, un obrero amante del bolero y un barbero que prefiere el tango.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/nowhere_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802094900 +0200" stop="20260802114900 +0200" channel="/es/node/5674">
+		<title lang="es">Un hombre llamado Ove</title>
+		<desc lang="es">Un viudo gruñón y solitario encuentra una nueva razón para vivir cuando una familia inmigrante se muda a su vecindario.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/man_called_ove_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802114900 +0200" stop="20260802140000 +0200" channel="/es/node/5674">
+		<title lang="es">Cosmética Terror</title>
+		<desc lang="es">Catalina es una maquillista de 35 años que trabaja en una funeraria y sueña con ser actriz. Una hada madrina aparece y le da la oportunidad de vivir su sueño: ser parte de su telenovela favorita: "Cosmética Horror".</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/cosmetica_terror_thumbnail_16x9_widescreen_las.jpg"/>
+	</programme>
+	<programme start="20260802140000 +0200" stop="20260802160000 +0200" channel="/es/node/5674">
+		<title lang="es">Nowhere</title>
+		<desc lang="es">Años 80. En un país latinoamericano, su dictador ha ideado un siniestro plan para justificar la permanencia del ejército en el poder. Sus servicios secretos secuestran a un grupo de opositores entre los que se encuentran un estudiante aficionado al boxeo, un cocinero homosexual, un profesor desilusionado, un obrero amante del bolero y un barbero que prefiere el tango.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/nowhere_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802160000 +0200" stop="20260802175300 +0200" channel="/es/node/5674">
+		<title lang="es">Diferencias irreconciliables</title>
+		<desc lang="es">Una niña precoz demanda la emancipación de sus padres egoístas e impulsados ​​por su carrera, sorprendiéndolos a ambos.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/irreconcilable_differences_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802175300 +0200" stop="20260802194600 +0200" channel="/es/node/5674">
+		<title lang="es">Igelak</title>
+		<desc lang="es">Pello es un empleado de banca que es acusado por fraude. De repente decide huir y cambiar de identidad para sobrevivir, pero acaba viviendo en un edificio okupa y conoce la otra cara del trabajo que ha estado realizando en el banco.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/igelak_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802194600 +0200" stop="20260802214900 +0200" channel="/es/node/5674">
+		<title lang="es">Nowhere</title>
+		<desc lang="es">Años 80. En un país latinoamericano, su dictador ha ideado un siniestro plan para justificar la permanencia del ejército en el poder. Sus servicios secretos secuestran a un grupo de opositores entre los que se encuentran un estudiante aficionado al boxeo, un cocinero homosexual, un profesor desilusionado, un obrero amante del bolero y un barbero que prefiere el tango.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/nowhere_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802214900 +0200" stop="20260802234900 +0200" channel="/es/node/5674">
+		<title lang="es">Un hombre llamado Ove</title>
+		<desc lang="es">Un viudo gruñón y solitario encuentra una nueva razón para vivir cuando una familia inmigrante se muda a su vecindario.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/man_called_ove_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802234900 +0200" stop="20260803020000 +0200" channel="/es/node/5674">
+		<title lang="es">Cosmética Terror</title>
+		<desc lang="es">Catalina es una maquillista de 35 años que trabaja en una funeraria y sueña con ser actriz. Una hada madrina aparece y le da la oportunidad de vivir su sueño: ser parte de su telenovela favorita: "Cosmética Horror".</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/cosmetica_terror_thumbnail_16x9_widescreen_las.jpg"/>
+	</programme>
+	<programme start="20260803020000 +0200" stop="20260803034100 +0200" channel="/es/node/5674">
+		<title lang="es">Gun Shy</title>
+		<desc lang="es">Un rockero envejecido debe rescatar a su esposa secuestrada mientras navega por las peligrosas aguas de la política y el crimen en Chile.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/gun_shy_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260803034100 +0200" stop="20260803052400 +0200" channel="/es/node/5674">
+		<title lang="es">Cortes Peligrosos</title>
+		<desc lang="es">Una comedia negra ambientada en una peluquería de clase trabajadora de Dublín donde las estilistas se convierten en justicieras accidentales y héroes de la comunidad.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/deadly_cuts_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260803052400 +0200" stop="20260803071900 +0200" channel="/es/node/5674">
+		<title lang="es">Hojas de Hierba</title>
+		<desc lang="es">Las vidas de dos gemelos idénticos (interpretados por Edward Norton) dan un giro cuando el primero, un profesor de filosofía, es confundido por el segundo, un traficante de drogas al que varios clanes del narcotráfico quieren ver muerto.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/hojas_de_hierbas_thumbnail_16x9_widescreen_v2.jpg"/>
+	</programme>
+	<programme start="20260802091800 +0200" stop="20260802112700 +0200" channel="/node/11374">
+		<title lang="es">Salyut-7, héroes en el espacio</title>
+		<desc lang="es">1985. La estación soviética no tripulada Salyut-7, en órbita alrededor de la Tierra, es un orgullo para la industria espacial de la URSS. De repente, se pierde la comunicación con el centro de control. La posible caída de la estación puede acabar en una catástrofe en la que pierdan la vida muchas personas. Dos astronautas son enviados para descubrir qué ha ocurrido, en una arriesgada misión sin precedentes en la historia de la navegación espacial.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11373_202608_AyTZe9u2gqfEIvZIjBKKWVfJ1GwCLl8k1pdaIm4MxUs.jpg"/>
+	</programme>
+	<programme start="20260802112700 +0200" stop="20260802130500 +0200" channel="/node/11374">
+		<title lang="es">El guardián</title>
+		<desc lang="es">Un exmarine detective de la policía de Los Ángeles, investiga un estallido de violencia que se está produciendo en la ciudad.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11373_202608_9gKO3BwPgDcUhmn8EXkm-jjGScQz0KJXGcWbep4KC-8.jpg"/>
+	</programme>
+	<programme start="20260802130500 +0200" stop="20260802143900 +0200" channel="/node/11374">
+		<title lang="es">Bichos raros</title>
+		<desc lang="es">Una comedia irónica que narra el romance estrafalario de dos inadaptados. Lily es tímida, poquita cosa, dulce y rara. Este último es el calificativo que más abunda sobre ella, la causa de que a sus espaldas todos la señalen a carcajadas. Aún así, para Lily eso no es motivo de amargura, al contrario: es feliz sabiéndose distinta. Trabaja como cajera en un restaurante de comida rápida, y ya ni escucha las burlas de sus propios compañeros. Está demasiado pendiente de una hora concreta al mediodía, porque ése es el momento en que aparece para comer Jarrod, alguien como ella, otro inadaptado. Jarrod trabaja en una tienda de videojuegos, se considera un genio y sale de una depresión para meterse en otra. Jarrod prepara una fiesta de disfraces donde cada invitado se vestirá como su animal favorito. El suyo es un águila, el de Lily un tiburón.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11373_202608_asINcTGDjMfZK986Fs4mx0oA31l9oxb0JZ8zEeeDLqo.jpg"/>
+	</programme>
+	<programme start="20260802143900 +0200" stop="20260802165300 +0200" channel="/node/11374">
+		<title lang="es">13 asesinos</title>
+		<desc lang="es">La época de paz del Japón feudal se ve amenazada por la ascendente carrera en el poder de Lord Naritsugu, el despiadado hermano…</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11373_202608_GnMp1rQ05C0zuSGnVvQ5QBDIb8P1KtGhHpJCW3f2-_k.jpg"/>
+	</programme>
+	<programme start="20260802165300 +0200" stop="20260802182500 +0200" channel="/node/11374">
+		<title lang="es">Los signos del Apocalipsis</title>
+		<desc lang="es">Cuando un misterioso planeta atraviesa el Sol, se desatan catástrofes globales. Un solitario científico es la clave para descifrar los símbolos, convirtiéndose en la única oportunidad que le queda a la humanidad para sobrevivir.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11373_202608_5rqNxA3bLTpZWWUb2GjCQ87_shuAfJ_BHMhLjYXMW5s.jpg"/>
+	</programme>
+	<programme start="20260802182500 +0200" stop="20260802200600 +0200" channel="/node/11374">
+		<title lang="es">Rescate en Nueva York</title>
+		<desc lang="es">Cuando la encantadora Kim Chang es secuestrada en un sangriento ataque, el detective Connor Spears es requerido por su hermano Rick para rescatarla de la guerra que mantienen bandas chinas y rusas.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11373_202608_3Ndk0QipOz10e6GBAudTtd7nmhymPQpwkWiaysd7UdI.jpg"/>
+	</programme>
+	<programme start="20260802200600 +0200" stop="20260802222100 +0200" channel="/node/11374">
+		<title lang="es">Jappeloup. De padre a hijo</title>
+		<desc lang="es">A principios de los 80, dejando una prometedora carrera como abogado, Pierre Durand decide dedicarse en cuerpo y alma a su pasión: el salto de obstáculos. Apoyado por su padre, lo apuesta todo por un joven caballo en que nadie tiene gran fe: Jappeloup. Demasiado pequeño, extraño, imprevisible, lleno de defectos aunque también con extraordinarias aptitudes. Juntos empiezan un camino de sacrificio, superación y trabajo que les convierte en leyenda olímpica.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11373_202608_IcaxNjSm3jFcitXKdhX2b1K5ud2zr66x8EQFl-yAdFY.jpg"/>
+	</programme>
+	<programme start="20260802222100 +0200" stop="20260803000600 +0200" channel="/node/11374">
+		<title lang="es">El salvaje</title>
+		<desc lang="es">Después de que su familia sea asesinada y dado por muerto, un granjero despierta en el desierto y se transforma en un guerrero.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11373_202608_Zu27a5b3zini_X4tusaWPBM3gRuQU7NpzvmCsbXePjI.jpg"/>
+	</programme>
+	<programme start="20260803000600 +0200" stop="20260803014800 +0200" channel="/node/11374">
+		<title lang="es">Hydra</title>
+		<desc lang="es">Tim Nolan, un exmarine, ha sido capturado junto con tres exconvictos para ser utilizado en un juego perverso. Hombres ricos han pagado una fortuna por la oportunidad de cazarlos en el lugar perfecto, una isla desierta. Pero pronto los cazadores se convierten en cazados cuando todos descubren que la isla está habitada por una bestia mítica y feroz que los perseguirá sin descanso.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11373_202608_PJGVY_zVRwSNRCzu515ByR2mY2ofMSCuhGUZG3MJCws.jpg"/>
+	</programme>
+	<programme start="20260803014800 +0200" stop="20260803032800 +0200" channel="/node/11374">
+		<title lang="es">Las marismas</title>
+		<desc lang="es">Reikiavik. El solitario inspector de policía Erlendur Sveinsson investiga el asesinato de un hombre de sesenta y nueve años aparentemente sin historia. La foto de la tumba de una niña fallecida misteriosamente en 1974 hallada en el domicilio de la víctima conduce a Erlendur y a su compañero Sigurdur Óli a un pasado turbio, un laberinto de corrupción con implicaciones inesperadas y aterradoras...</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11373_202608_A9g3VKbtx2gREAc1U2xC8XN5sbYCvgTfpMEzmMhRFWM.jpg"/>
+	</programme>
+	<programme start="20260803032800 +0200" stop="20260803051000 +0200" channel="/node/11374">
+		<title lang="es">Los últimos cinco años</title>
+		<desc lang="es">Basada en una obra musical de Broadway ganadora del premio Tony, la historia se centra en la relación que mantienen Cathy Hiatt (Anna Kendrick), una joven aspirante a actriz, y Jamie Wellerstein (Jeremy Jordan), un novelista en alza. Cuando ambos se conocen pronto se enamoran perdidamente, y la vida les sonríe. Pero cinco años después, incapaces de superar las dificultades de la vida cotidiana, lo único que les queda es una relación que desafina, y echando la vista atrás reconocen que sólo les puede salvar los esfuerzos por volver a encontrar su historia de amor inicial.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11373_202608_2Q9Ap06lkdyVoJ3sW4chz3CRXPEfDyKWrJ-YXqSkxcQ.jpg"/>
+	</programme>
+	<programme start="20260803051000 +0200" stop="20260803070000 +0200" channel="/node/11374">
+		<title lang="es">Alto el fuego</title>
+		<desc lang="es">Georges es un antiguo combatiente de la Primera Guerra Mundial que, traumatizado por los horrores sufridos en las trincheras, ha dejado todo atrás y ahora viaja por los vastos territorios de África Oriental. Tras cuatro años, esta vida nómada y aventurera le conduce a un callejón sin salida y decide regresar a casa, en Francia. El reencuentro con su familia y la sociedad posterior a la Gran Guerra es muy difícil. Pero Georges encuentra la complicidad de Hélène, una bella profesora de lenguaje de signos.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11373_202608_aXf96h6eFl8QV6bg4df7cdzGguvXquuW8ypgT6ErPhI.jpg"/>
+	</programme>
+	<programme start="20260802084700 +0200" stop="20260802102000 +0200" channel="/es/node/5676">
+		<title lang="es">Novia por conveniencia</title>
+		<desc lang="es">Una novia rusa que quiere conseguir el permiso de residencia es encargada por correo.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/this_much_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802102000 +0200" stop="20260802123000 +0200" channel="/es/node/5676">
+		<title lang="es">El forastero</title>
+		<desc lang="es">Historia de amor prohibido entre una joven viuda de un grupo religioso de corte menonita y un pistolero al que acoge en su casa después de que este resulte herido.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/el_forastero_thumbnail_16x9_widescreen_es_0.jpg"/>
+	</programme>
+	<programme start="20260802123000 +0200" stop="20260802140000 +0200" channel="/es/node/5676">
+		<title lang="es">Yo Quiero a Eva</title>
+		<desc lang="es">Eva es invitada a una cena para festejar el cumpleaños de su vecino, sin sospechar que se trata de una trampa de su familia porque quieren que sean novios.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/yo_quiero_a_eva_thumbnail_16x9_widescreen.jpg"/>
+	</programme>
+	<programme start="20260802140000 +0200" stop="20260802153400 +0200" channel="/es/node/5676">
+		<title lang="es">Novia por conveniencia</title>
+		<desc lang="es">Una novia rusa que quiere conseguir el permiso de residencia es encargada por correo.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/this_much_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802153400 +0200" stop="20260802173600 +0200" channel="/es/node/5676">
+		<title lang="es">Amor a Primera Visa</title>
+		<desc lang="es">Rachel es una mujer moderna e inteligente cuya prioridad es su carrera diplomática en la Embajada Americana, lo que le obliga a estar viajando continuamente. Tras su fiesta de despedida en Ciudad de Mexico y a punto de trasladarse a Londres, despierta aun bajo los efectos del alcohol, en el apartamento de Alejandro , un apuesto mariachi y padre soltero.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/amor_a_primera_visa_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802173600 +0200" stop="20260802191700 +0200" channel="/es/node/5676">
+		<title lang="es">Palm Springs</title>
+		<desc lang="es">Dos desconocidos quedan atrapados en un bucle temporal durante una boda en Palm Springs, viviendo el mismo día una y otra vez.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/palm_springs_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802191700 +0200" stop="20260802204700 +0200" channel="/es/node/5676">
+		<title lang="es">Transformación Navideña</title>
+		<desc lang="es">Haley Hanson pone su trabajo como ejecutiva de publicidad por encima de todo lo demás, incluso durante las vacaciones. Entonces, cuando Tyler Toys está buscando una nueva agencia para representarlos, Haley está más que lista para armar el terreno de juego. Sin embargo, su jefe teme que su falta de espíritu navideño sea un factor y la envía al Campamento de Navidad.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/christmas_makeover_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802204700 +0200" stop="20260802222000 +0200" channel="/es/node/5676">
+		<title lang="es">Novia por conveniencia</title>
+		<desc lang="es">Una novia rusa que quiere conseguir el permiso de residencia es encargada por correo.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/this_much_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802222000 +0200" stop="20260803003000 +0200" channel="/es/node/5676">
+		<title lang="es">El forastero</title>
+		<desc lang="es">Historia de amor prohibido entre una joven viuda de un grupo religioso de corte menonita y un pistolero al que acoge en su casa después de que este resulte herido.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/el_forastero_thumbnail_16x9_widescreen_es_0.jpg"/>
+	</programme>
+	<programme start="20260803003000 +0200" stop="20260803020000 +0200" channel="/es/node/5676">
+		<title lang="es">Yo Quiero a Eva</title>
+		<desc lang="es">Eva es invitada a una cena para festejar el cumpleaños de su vecino, sin sospechar que se trata de una trampa de su familia porque quieren que sean novios.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/yo_quiero_a_eva_thumbnail_16x9_widescreen.jpg"/>
+	</programme>
+	<programme start="20260803020000 +0200" stop="20260803033200 +0200" channel="/es/node/5676">
+		<title lang="es">Amor Sin Tiempo</title>
+		<desc lang="es">Megan parece tener la vida perfecta: una relación amorosa con un maravilloso esposo llamado Thomas y dos adorables hijos. Luego se encuentra despertando de un coma y descubre que no está y que nunca se ha casado. Thomas y los niños parecen no existir. Sus padres se preocupan por ella y Megan lucha por dejar de lado la realidad con la que soñaba.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/timeless_love_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260803033200 +0200" stop="20260803051900 +0200" channel="/es/node/5676">
+		<title lang="es">No Quiero Ser Recuerdo</title>
+		<desc lang="es">A pesar de que lo esperaban, la madrugada en que su madre falleció, el mundo de Vega se cubrió con un manto de tristeza bajo el que solamente podría distinguir la mirada desordenada y afligida de su padre. Y en los más oscuro de su desconcierto conoció a Nico, un pintor callejero que llenó su universo de color a pinceladas de ternura, amor y libertad</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/no_quiero_ser_recuerdo_thumbnail_16x9_widescreen_las.jpg"/>
+	</programme>
+	<programme start="20260802075500 +0200" stop="20260802094500 +0200" channel="/es/node/16425">
+		<title lang="es">Crónicas de un crimen</title>
+		<desc lang="es">La novelista Hannah Ryan crea una serie de crímenes que alguien imita en la vida real.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_16424_202608_A6z0uV33luWW26wYTdbpE4idQLtxTwjMvcEi-kM1yu0.jpg"/>
+	</programme>
+	<programme start="20260802094500 +0200" stop="20260802113000 +0200" channel="/es/node/16425">
+		<title lang="es">Gemelas enfrentadas</title>
+		<desc lang="es">Cuando Jessica es víctima de un chantaje le pide ayuda a su hermana gemela obteniendo más de lo que esperaba.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_16424_202608_A6z0uV33luWW26wYTdbpE4idQLtxTwjMvcEi-kM1yu0.jpg"/>
+	</programme>
+	<programme start="20260802113000 +0200" stop="20260802133000 +0200" channel="/es/node/16425">
+		<title lang="es">Llamada oculta</title>
+		<desc lang="es">Un psicópata utiliza una sofisticada bomba de tiempo exigiendo una respuesta a su pregunta: '¿QUIÉN SOY?'</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_16424_202608_A6z0uV33luWW26wYTdbpE4idQLtxTwjMvcEi-kM1yu0.jpg"/>
+	</programme>
+	<programme start="20260802133000 +0200" stop="20260802151500 +0200" channel="/es/node/16425">
+		<title lang="es">Kidnapped to the Island</title>
+		<desc lang="es"></desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_16424_202608_A6z0uV33luWW26wYTdbpE4idQLtxTwjMvcEi-kM1yu0.jpg"/>
+	</programme>
+	<programme start="20260802151500 +0200" stop="20260802170000 +0200" channel="/es/node/16425">
+		<title lang="es">La Sospechosa</title>
+		<desc lang="es">Beth ha sido acusada de matar a su marido. Todos creen que es culpable, hasta que aparece Jerry, un investigador de una aseguradora que le da el beneficio de la duda.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_16424_202608_A6z0uV33luWW26wYTdbpE4idQLtxTwjMvcEi-kM1yu0.jpg"/>
+	</programme>
+	<programme start="20260802170000 +0200" stop="20260802184500 +0200" channel="/es/node/16425">
+		<title lang="es">La Impostora</title>
+		<desc lang="es">Una joven aspirante a actriz es contratada para sustituir a la esposa de un empresario durante una importante recepción en su casa. Lo que parecía un trabajo sencillo se convertirá en una pesadilla.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_16424_202608_A6z0uV33luWW26wYTdbpE4idQLtxTwjMvcEi-kM1yu0.jpg"/>
+	</programme>
+	<programme start="20260802184500 +0200" stop="20260802203000 +0200" channel="/es/node/16425">
+		<title lang="es">Capilla de Boda, La</title>
+		<desc lang="es">Sarah es una pintora sin inspiración, soltera, tiene mala suerte y quiere escapar de sus problemas. Decide visitar a su madre, y se involucra en salvar una iglesia local que está en peligro de cerrar.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_16424_202608_A6z0uV33luWW26wYTdbpE4idQLtxTwjMvcEi-kM1yu0.jpg"/>
+	</programme>
+	<programme start="20260802203000 +0200" stop="20260802221500 +0200" channel="/es/node/16425">
+		<title lang="es">Retrato de un Secuestro</title>
+		<desc lang="es">Durante un día con su hija en un carnaval, una fotógrafo mira hacia otro lado por un momento y su hija desaparece. Esta madre arriesga todo, incluso su cordura para encontrar a su hija.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_16424_202608_A6z0uV33luWW26wYTdbpE4idQLtxTwjMvcEi-kM1yu0.jpg"/>
+	</programme>
+	<programme start="20260802221500 +0200" stop="20260803000000 +0200" channel="/es/node/16425">
+		<title lang="es">WEBCAM DE ANIMADORAS</title>
+		<desc lang="es">Maisy se traslada a la universidad de su difunta hermana para encontrar la verdad detrás de su muerte, donde descubre que muchas de las chicas del equipo de porristas también son chicas webcam, pero revelar la verdad puede tener consecuencias mortales.
+
+DURACION: 87 MINUTOS</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_16424_202608_A6z0uV33luWW26wYTdbpE4idQLtxTwjMvcEi-kM1yu0.jpg"/>
+	</programme>
+	<programme start="20260803000000 +0200" stop="20260803014500 +0200" channel="/es/node/16425">
+		<title lang="es">Madre Acosada</title>
+		<desc lang="es">Un grupo de amigos se encuentran en una reunión de antiguos alumnos del instituto, pero un crimen será el desencadenante de una serie de trágicos eventos.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_16424_202608_A6z0uV33luWW26wYTdbpE4idQLtxTwjMvcEi-kM1yu0.jpg"/>
+	</programme>
+	<programme start="20260803014500 +0200" stop="20260803033000 +0200" channel="/es/node/16425">
+		<title lang="es">TouchedByAKiller-feature-eng-spa</title>
+		<desc lang="es"></desc>
+		<icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_16424_202608_A6z0uV33luWW26wYTdbpE4idQLtxTwjMvcEi-kM1yu0.jpg"/>
+	</programme>
+	<programme start="20260803033000 +0200" stop="20260803051000 +0200" channel="/es/node/16425">
+		<title lang="es">Kidnapped to the Island</title>
+		<desc lang="es"></desc>
+		<icon src="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_16424_202608_A6z0uV33luWW26wYTdbpE4idQLtxTwjMvcEi-kM1yu0.jpg"/>
+	</programme>
+	<programme start="20260802084200 +0200" stop="20260802102700 +0200" channel="/es/node/19931">
+		<title lang="es">Águila Roja - Gonzalo y Margarita se muestran felices mientras se encargan de los preparativos de su boda</title>
+		<desc lang="es">Gonzalo y margarita, felices, se encargan de los preparativos de su boda. Satur comienza a pensar que su amo ya no le necesita, y se siente desplazado. Tal vez es hora de que el forme también su propia familia...satur conoce por casualidad a un famoso sastre y decide regalar a Gonzalo su traje de boda. Desconoce que malasangre ha hecho un encargo muy especial precisamente a ese sastre</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/aguila_roja_s8_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802102700 +0200" stop="20260802121500 +0200" channel="/es/node/19931">
+		<title lang="es">Águila Roja - La ifantasía y la imaginación se hace con la villa</title>
+		<desc lang="es">El numero 100 es un capítulo especial, con la mecánica de un cuento dentro de otro cuento...todo comienza cuando satur y Gonzalo se enteran de que el niño chino ha desaparecido. Salen en su busca y descubren que ha caído en una sima.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/aguila_roja_s8_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802121500 +0200" stop="20260802140000 +0200" channel="/es/node/19931">
+		<title lang="es">Águila Roja - Águila Roja tiene que luchar sin su katana, despues de que un rayo impactara en ella</title>
+		<desc lang="es">Durante una tormenta, un rayo impacta en la catana de águila roja y se rompe por la mitad. Satur cree que deberían arreglarla, pero es demasiado arriesgado: podrían descubrir la identidad de águila. Satur decide llevar la catana a un forjador sin decírselo a su amo, lo que tendrá consecuencias para el héroe. La marquesa está decidida a recuperar a su hijo.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/aguila_roja_s8_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802140000 +0200" stop="20260802154300 +0200" channel="/es/node/19931">
+		<title lang="es">Águila Roja - Águila Roja y Sátur han sido apresados y viajan en un galeón camino de Asia</title>
+		<desc lang="es">Gonzalo y satur han sido apresados y viajan en un galeón camino de Asia para ser vendidos como esclavos. Nadie sabe dónde están y no existe ninguna posibilidad de escapar de alta mar. Margarita acude a malasangre para averiguar el paradero de Gonzalo. Pero malasangre no ayuda a nadie a cambio de nada y margarita tendrá que llegar a un desagradable acuerdo con el...</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/aguila_roja_s8_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802154300 +0200" stop="20260802172200 +0200" channel="/es/node/19931">
+		<title lang="es">Águila Roja - Sátur decide estudiar derecho en la Universidad para que su hijo esté orgulloso de él</title>
+		<desc lang="es">Satur quiere que su hijo se sienta orgulloso de él y decide estudiar derecho en la universidad. Al mismo tiempo, águila roja y el comisario investigan a un grupo de estudiantes sospechosos de organizar un complot que pondrá en peligro a la familia real. Por su parte, la marquesa espera impaciente la llegada a su palacio de Olivia, quien fue su mentora</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/aguila_roja_s8_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802172200 +0200" stop="20260802190600 +0200" channel="/es/node/19931">
+		<title lang="es">Águila Roja - Gonzalo y Margarita se muestran felices mientras se encargan de los preparativos de su boda</title>
+		<desc lang="es">Gonzalo y margarita, felices, se encargan de los preparativos de su boda. Satur comienza a pensar que su amo ya no le necesita, y se siente desplazado. Tal vez es hora de que el forme también su propia familia...satur conoce por casualidad a un famoso sastre y decide regalar a Gonzalo su traje de boda. Desconoce que malasangre ha hecho un encargo muy especial precisamente a ese sastre</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/aguila_roja_s8_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802190600 +0200" stop="20260802205500 +0200" channel="/es/node/19931">
+		<title lang="es">Águila Roja - La ifantasía y la imaginación se hace con la villa</title>
+		<desc lang="es">El numero 100 es un capítulo especial, con la mecánica de un cuento dentro de otro cuento...todo comienza cuando satur y Gonzalo se enteran de que el niño chino ha desaparecido. Salen en su busca y descubren que ha caído en una sima.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/aguila_roja_s8_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802205500 +0200" stop="20260802223800 +0200" channel="/es/node/19931">
+		<title lang="es">Águila Roja - Águila Roja tiene que luchar sin su katana, despues de que un rayo impactara en ella</title>
+		<desc lang="es">Durante una tormenta, un rayo impacta en la catana de águila roja y se rompe por la mitad. Satur cree que deberían arreglarla, pero es demasiado arriesgado: podrían descubrir la identidad de águila. Satur decide llevar la catana a un forjador sin decírselo a su amo, lo que tendrá consecuencias para el héroe. La marquesa está decidida a recuperar a su hijo.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/aguila_roja_s8_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802223800 +0200" stop="20260803002100 +0200" channel="/es/node/19931">
+		<title lang="es">Águila Roja - Águila Roja y Sátur han sido apresados y viajan en un galeón camino de Asia</title>
+		<desc lang="es">Gonzalo y satur han sido apresados y viajan en un galeón camino de Asia para ser vendidos como esclavos. Nadie sabe dónde están y no existe ninguna posibilidad de escapar de alta mar. Margarita acude a malasangre para averiguar el paradero de Gonzalo. Pero malasangre no ayuda a nadie a cambio de nada y margarita tendrá que llegar a un desagradable acuerdo con el...</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/aguila_roja_s8_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260803002100 +0200" stop="20260803020000 +0200" channel="/es/node/19931">
+		<title lang="es">Águila Roja - Sátur decide estudiar derecho en la Universidad para que su hijo esté orgulloso de él</title>
+		<desc lang="es">Satur quiere que su hijo se sienta orgulloso de él y decide estudiar derecho en la universidad. Al mismo tiempo, águila roja y el comisario investigan a un grupo de estudiantes sospechosos de organizar un complot que pondrá en peligro a la familia real. Por su parte, la marquesa espera impaciente la llegada a su palacio de Olivia, quien fue su mentora</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/aguila_roja_s8_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260803020000 +0200" stop="20260803034600 +0200" channel="/es/node/19931">
+		<title lang="es">Águila Roja - Gonzalo y Margarita se muestran felices mientras se encargan de los preparativos de su boda</title>
+		<desc lang="es">Gonzalo y margarita, felices, se encargan de los preparativos de su boda. Satur comienza a pensar que su amo ya no le necesita, y se siente desplazado. Tal vez es hora de que el forme también su propia familia...satur conoce por casualidad a un famoso sastre y decide regalar a Gonzalo su traje de boda. Desconoce que malasangre ha hecho un encargo muy especial precisamente a ese sastre</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/aguila_roja_s8_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260803034600 +0200" stop="20260803053700 +0200" channel="/es/node/19931">
+		<title lang="es">Águila Roja - La ifantasía y la imaginación se hace con la villa</title>
+		<desc lang="es">El numero 100 es un capítulo especial, con la mecánica de un cuento dentro de otro cuento...todo comienza cuando satur y Gonzalo se enteran de que el niño chino ha desaparecido. Salen en su busca y descubren que ha caído en una sima.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/aguila_roja_s8_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802090500 +0200" stop="20260802103100 +0200" channel="/es/node/6582">
+		<title lang="es">Águila Roja - Muertes y engaños</title>
+		<desc lang="es">La muerte se ha cebado con los campesinos de Valderrobledo y se llevará también a los habitantes de la Villa si Águila Roja no lo remedia. Sátur recibe un duro golpe al enterarse de que Estuarda y su hijo Gabi lo han estado engañando durante mucho tiempo. Irene acude a confesarse sin sospechar que no es un sacerdote quien escucha sus pecados</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/aguila_roja_s3_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802103100 +0200" stop="20260802120000 +0200" channel="/es/node/6582">
+		<title lang="es">Águila Roja - El pirata Richard Blake apresado</title>
+		<desc lang="es">El famoso pirata Richard Blake ha sido apresado después de muchos años asolando galeones españoles. El Rey prepara una ejecución ejemplar. Sin embargo el Cardenal Mendoza y el Comisario tienen otros planes para el reo. Mientras, los hombres del Comisario persiguen a Martín por toda la villa.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/aguila_roja_s3_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802120000 +0200" stop="20260802132200 +0200" channel="/es/node/6582">
+		<title lang="es">Águila Roja - Nuño espera su ejecución</title>
+		<desc lang="es">La Marquesa y el Comisario están desesperados. Nuño ha sido acusado de violar a la joven Beatriz y permanece encerrado a la espera de su ejecución. Por su parte, Águila Roja intentará conseguir pruebas para demostrar la inocencia de Nuño. Águila es picado por una serpiente venenosa.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/aguila_roja_s3_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802132200 +0200" stop="20260802145200 +0200" channel="/es/node/6582">
+		<title lang="es">Águila Roja - Felipe Próspero, gravamente enfermo</title>
+		<desc lang="es">El heredero al trono, Felipe Próspero, está gravemente enfermo y los médicos poco pueden hacer ya por él. El Rey, sumido en una profunda desazón, acepta la propuesta del Cardenal Mendoza de recurrir a las oraciones de una famosa abadesa, la madre Isabel, para conseguir la salvación del niño.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/aguila_roja_s3_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802145200 +0200" stop="20260802162800 +0200" channel="/es/node/6582">
+		<title lang="es">Águila Roja - Bienvenida, Madre Isabel</title>
+		<desc lang="es">Tras la muerte del heredero al trono, el rey pide a Dios que la reina dé a luz un varón, está dispuesto a renunciar a la guerra con Portugal si escucha su plegaria. El Cardenal Mendoza urde un plan para asegurarse de que la reina tenga un niño.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/aguila_roja_s3_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802162800 +0200" stop="20260802180700 +0200" channel="/es/node/6582">
+		<title lang="es">Águila Roja - La peste asola la villa</title>
+		<desc lang="es">Los hombres del Comisario detienen a todo aquel que tenga síntomas de la peste para frenar la propagación de la enfermedad. Sátur se ha contagiado y Águila Roja cuidará de su fiel escudero hasta el final. El barco dónde viajaba el pirata Richard Blake ha naufragado. El destino de su mujer, Mariana, está en manos del Cardenal y del Comisario.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/aguila_roja_s3_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802180700 +0200" stop="20260802193500 +0200" channel="/es/node/6582">
+		<title lang="es">Águila Roja - Convoy a Mongolia</title>
+		<desc lang="es">El comisario da salida al convoy mongol ignorando que es la marquesa y no mariana la que es conducida en un baúl rumbo a Mongolia. Mientras, en palacio, Irene pone en peligro su vida al intentar ocultar su embarazo.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/aguila_roja_s4_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802193500 +0200" stop="20260802204200 +0200" channel="/es/node/6582">
+		<title lang="es">Ana y los 7 - Episodio 05</title>
+		<desc lang="es">Llega la esperada fecha de la boda de Alexia y Fernando. Hasta el último momento y convencida de que el banquero no está enamorado de Alexia, Ana alberga la esperanza de que el enlace no tenga lugar, pero acaba aceptando lo inevitable.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/ana_y_los_7_s2_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802204200 +0200" stop="20260802220000 +0200" channel="/es/node/6582">
+		<title lang="es">Ana y los 7 - Episodio 19</title>
+		<desc lang="es">Harta de no granjearse las simpatías ni el afecto de los demás, Alexia decide cambiar de actitud. Desde ahora se empeña en comportarse de manera amable y simpática con los otros. Sin embargo, este cambio de postura no convence a todos los de la casa.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/ana_y_los_7_s2_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802220000 +0200" stop="20260802233700 +0200" channel="/es/node/6582">
+		<title lang="es">Águila Roja - Propuesta de matrimonio</title>
+		<desc lang="es">La superstición causa estragos en la Villa cuando al anuncio de un eclipse solar se une un fenómeno extraño: la imagen de la Virgen de la Verdad llora sangre. Algunos fieles comienzan a hablar de una profecía que advierte del fin del mundo. Poco a poco el miedo se va apoderando de las calles.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/aguila_roja_s3_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802233700 +0200" stop="20260803010100 +0200" channel="/es/node/6582">
+		<title lang="es">Águila Roja - Encerrada en el refugio</title>
+		<desc lang="es">Los problemas aumentan a medida que se acerca el fin del mundo. Margarita y Alonso continúan encerrados en el refugio subterráneo. Sátur, que es el úniconico que sabe dónde están, sufre un accidente y no puede ayudar a Águila Roja a encontrar a su familia.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/aguila_roja_s3_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260803010100 +0200" stop="20260803020000 +0200" channel="/es/node/6582">
+		<title lang="es">Curro Jiménez - 20.000 onzas mexicanas</title>
+		<desc lang="es">Curro Jiménez se mete en una operación en la que hay en juego una fortuna en piezas de oro.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/curro_jiminiez_thumbnail_16x9_widescreen.jpg"/>
+	</programme>
+	<programme start="20260802085200 +0200" stop="20260802094400 +0200" channel="/node/24880">
+		<title lang="es">Rebelde - Capítulo 185</title>
+		<desc lang="es">Gastón castiga a los alumnos. Roberta planea una larga venganza contra Diego. Valeria se enfurece al saber que Mía tendrá su fiesta; Franco la reprende. Mía promete a Gastón mantenerse alejada de Miguel. Franco le ruega a Miguel que proteja a Mía. Lupita le dice a Galia quién robó los exámenes. Gandía retira su apoyo a Tomás. Gastón inicia una investigación sobre Miguel. Pilar ataca a Lupita.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/rebelde_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802094400 +0200" stop="20260802103600 +0200" channel="/node/24880">
+		<title lang="es">Rebelde - Capítulo 186</title>
+		<desc lang="es">Valeria acusa a Alma de querer quedarse con Franco. Celina se une a Pilar para vengarse de Lupita. Simón toma una foto humillante de Diego, Giovanni y Tomás; se distribuye anónimamente. Celina tacha el nombre de Lupita de la lista de invitados de Mía. Miguel sigue a Gastón al banco donde sale esposado a un maletín. Roberta golpea a Pilar para defender a Lupita y la culpa de la foto. Miguel y Mía trabajan juntos en clase; él le dice que le pregunte a Gastón por su mañana.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/rebelde_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802103600 +0200" stop="20260802112700 +0200" channel="/node/24880">
+		<title lang="es">Rebelde - Capítulo 164</title>
+		<desc lang="es">Alma y su hija están en una sesión de fotos que interrumpe al padre de Roberta, quien obliga a Alma a inscribirla en una escuela exclusiva. Roberta llega a “Elite Way School” decidida a no ser aceptada. Para su madre también hay una sorpresa: el director es un viejo conocido suyo. Diego y Tomás salen en coche con dos chicas y sufren un terrible accidente.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/rebelde_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802112700 +0200" stop="20260802121700 +0200" channel="/node/24880">
+		<title lang="es">Rebelde - Capítulo 165</title>
+		<desc lang="es">Madariaga abandona la clase tras la acusación de Renata. Miguel le dice a Madariaga que los alumnos lo apoyan. Roberta y Mía se unen para evitar que Alma se vaya. Diego encuentra una pista sobre Madariaga. Nadie quiere trabajar con Pilar. Alma y Franco se reúnen para hablar. Lupita descubre el escondite de comida de Celina. Madariaga amenaza con acudir a la prensa si lo despiden injustamente.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/rebelde_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802121700 +0200" stop="20260802130800 +0200" channel="/node/24880">
+		<title lang="es">Rebelde - Capítulo 166</title>
+		<desc lang="es">Mía y Roberta pelean por el honor de sus padres. Roberta y Alma discuten su verdadero problema. Mayra recuerda a los alumnos por qué deben luchar por Madariaga. Mendiola sufre un infarto tras discutir con Madariaga; Renata revela su relación con él. Madariaga cuenta cómo murió su familia. Diego apuesta con Tomás que logrará que Roberta se enamore de él. Vico revela que le interesa Giovanni.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/rebelde_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802130800 +0200" stop="20260802140000 +0200" channel="/node/24880">
+		<title lang="es">Rebelde - Capítulo 167</title>
+		<desc lang="es">Roberta le dice a Alma que la ama y le ruega que no se vaya. Valeria exige a Alma que se quede por su “esposo”, Franco. Teo sigue persiguiendo a José. Diego insiste en conquistar a Roberta. Giovanni se cuela en la escuela. Celina compra pastillas para adelgazar. Giovanni, Diego y Tomás planean ligar con chicas. Nico recibe una carta de Cata diciendo que su madre acosa a Lupita. Mía besa a Gastón. Diego intenta sobornar a Simón para que pierda la carrera.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/rebelde_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802140000 +0200" stop="20260802145400 +0200" channel="/node/24880">
+		<title lang="es">Rebelde - Capítulo 185</title>
+		<desc lang="es">Gastón castiga a los alumnos. Roberta planea una larga venganza contra Diego. Valeria se enfurece al saber que Mía tendrá su fiesta; Franco la reprende. Mía promete a Gastón mantenerse alejada de Miguel. Franco le ruega a Miguel que proteja a Mía. Lupita le dice a Galia quién robó los exámenes. Gandía retira su apoyo a Tomás. Gastón inicia una investigación sobre Miguel. Pilar ataca a Lupita.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/rebelde_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802145400 +0200" stop="20260802154800 +0200" channel="/node/24880">
+		<title lang="es">Rebelde - Capítulo 186</title>
+		<desc lang="es">Valeria acusa a Alma de querer quedarse con Franco. Celina se une a Pilar para vengarse de Lupita. Simón toma una foto humillante de Diego, Giovanni y Tomás; se distribuye anónimamente. Celina tacha el nombre de Lupita de la lista de invitados de Mía. Miguel sigue a Gastón al banco donde sale esposado a un maletín. Roberta golpea a Pilar para defender a Lupita y la culpa de la foto. Miguel y Mía trabajan juntos en clase; él le dice que le pregunte a Gastón por su mañana.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/rebelde_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802154800 +0200" stop="20260802163700 +0200" channel="/node/24880">
+		<title lang="es">Rebelde - Capítulo 163</title>
+		<desc lang="es">Tomás es perseguido por Pilar. Mía y Diego, Roberta y Miguel deciden que ya no quieren fingir que se gustan. Teo besa a José; ella lo abofetea. León descubre que Mabel tiene una aventura con el instructor de tenis. Roberta se entera de que su madre se muda a Nueva York.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/rebelde_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802163700 +0200" stop="20260802172800 +0200" channel="/node/24880">
+		<title lang="es">Rebelde - Capítulo 164</title>
+		<desc lang="es">Alma y su hija están en una sesión de fotos que interrumpe al padre de Roberta, quien obliga a Alma a inscribirla en una escuela exclusiva. Roberta llega a “Elite Way School” decidida a no ser aceptada. Para su madre también hay una sorpresa: el director es un viejo conocido suyo. Diego y Tomás salen en coche con dos chicas y sufren un terrible accidente.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/rebelde_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802172800 +0200" stop="20260802181800 +0200" channel="/node/24880">
+		<title lang="es">Rebelde - Capítulo 165</title>
+		<desc lang="es">Madariaga abandona la clase tras la acusación de Renata. Miguel le dice a Madariaga que los alumnos lo apoyan. Roberta y Mía se unen para evitar que Alma se vaya. Diego encuentra una pista sobre Madariaga. Nadie quiere trabajar con Pilar. Alma y Franco se reúnen para hablar. Lupita descubre el escondite de comida de Celina. Madariaga amenaza con acudir a la prensa si lo despiden injustamente.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/rebelde_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802181800 +0200" stop="20260802190900 +0200" channel="/node/24880">
+		<title lang="es">Rebelde - Capítulo 182</title>
+		<desc lang="es">Gastón le cuenta a Mía sobre su vida y su pasado. Franco descubre a Mía y Gastón juntos. Gastón declara su amor por Mía y le pide a Franco una oportunidad para demostrar que es digno. Renata sospecha de Madariaga. Franco y Miguel hablan sobre Gastón. Alma se lleva a Roberta lejos para que se recupere. Giovanni es readmitido en la escuela; presenta a sus verdaderos padres a la clase.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/rebelde_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802081500 +0200" stop="20260802093400 +0200" channel="/node/5684">
+		<title lang="es">Ana y los 7 - Episodio 17</title>
+		<desc lang="es">Ana y David regresan a casa después de festejar la boda de Tony y Sharon. Alexia se pregunta la razón por la que se quedo dormida en el salón de casa la noche anterior, mientras el juez casaba a los amigos de Ana.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/ana_y_los_7_s2_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802093400 +0200" stop="20260802104300 +0200" channel="/node/5684">
+		<title lang="es">Ana y Los 7 - Temporada 3 - Episodio 07</title>
+		<desc lang="es">Entre Ana y Fernando se produce un encuentro decisivo. Alexia recibe un informe sorprendente sobre la extraña noche. Rosa espía a los Hidalgo. Manuela y Nando ayudan a Bruno.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/ana_y_los_7_s3_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802104300 +0200" stop="20260802115300 +0200" channel="/node/5684">
+		<title lang="es">Ana y Los 7 - Temporada 3 - Episodio 08</title>
+		<desc lang="es">Fernando decide dar un gran paso. El detective de Alexia hace un hallazgo sorprendente. Nando descubre que Fonty sale con Chiqui. Carolina no soporta trabajar para Natalia. Cristian muestra su verdadera cara.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/ana_y_los_7_s3_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802115300 +0200" stop="20260802130400 +0200" channel="/node/5684">
+		<title lang="es">Ana y los 7 - Episodio 07</title>
+		<desc lang="es">Tras lo sucedido en la ceremonia de la boda, Alexia ha salido reforzada. Ahora hace uso de su posicion de fuerza y presiona a Fernando para que Ana solo trabaje de niñera durante el dia, obligandola a pasar las noches fuera de la casa.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/ana_y_los_7_s2_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802130400 +0200" stop="20260802140000 +0200" channel="/node/5684">
+		<title lang="es">Ana y los 7 - Episodio 08</title>
+		<desc lang="es">Ana recibe la inesperada visita de unas monjas del orfanato. Le traen la correspondencia que en su dia la madre mantuvo con ella. Misteriosamente, aquellas cartas permanecieron ocultas en un cajon cerrado y nunca llegaron a sus manos.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/ana_y_los_7_s2_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802140000 +0200" stop="20260802152000 +0200" channel="/node/5684">
+		<title lang="es">Ana y los 7 - Episodio 02</title>
+		<desc lang="es">Tras su fracasado intento de convertirse en niñera en casa del banquero Fernando Hidalgo, Ana ha regresado al apartamento que compartia con su amiga Sharon, compañera de trabajo en el club Chicago. Se siente triste y echa de menos a los niños.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/ana_y_los_7_s1_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802152000 +0200" stop="20260802163700 +0200" channel="/node/5684">
+		<title lang="es">Ana y los 7 - Episodio 16</title>
+		<desc lang="es">Ante la huida de Guille y Lucia, la familia avisa a la policia y sale en busca de los pequeños. Fernando, consciente de los motivos de la escapada, pide a Ana que persuada a los chicos para que acepten a Alexia como madre.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/ana_y_los_7_s1_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802163700 +0200" stop="20260802175200 +0200" channel="/node/5684">
+		<title lang="es">Ana y los 7 - Episodio 17</title>
+		<desc lang="es">Antes del inicio de las vacaciones de verano, Fernando anuncia a Ana la proxima visita de su hermano David, con el que no ha mantenido contacto durante dieciocho años. El abuelo comunica la noticia a los niños, que reaccionan con sorpresa y expectacion.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/ana_y_los_7_s1_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802175200 +0200" stop="20260802190200 +0200" channel="/node/5684">
+		<title lang="es">Ana y Los 7 - Temporada 3 - Episodio 07</title>
+		<desc lang="es">Entre Ana y Fernando se produce un encuentro decisivo. Alexia recibe un informe sorprendente sobre la extraña noche. Rosa espía a los Hidalgo. Manuela y Nando ayudan a Bruno.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/ana_y_los_7_s3_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802190200 +0200" stop="20260802201100 +0200" channel="/node/5684">
+		<title lang="es">Ana y Los 7 - Temporada 3 - Episodio 08</title>
+		<desc lang="es">Fernando decide dar un gran paso. El detective de Alexia hace un hallazgo sorprendente. Nando descubre que Fonty sale con Chiqui. Carolina no soporta trabajar para Natalia. Cristian muestra su verdadera cara.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/ana_y_los_7_s3_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802201100 +0200" stop="20260802212300 +0200" channel="/node/5684">
+		<title lang="es">Ana y los 7 - Episodio 07</title>
+		<desc lang="es">Tras lo sucedido en la ceremonia de la boda, Alexia ha salido reforzada. Ahora hace uso de su posicion de fuerza y presiona a Fernando para que Ana solo trabaje de niñera durante el dia, obligandola a pasar las noches fuera de la casa.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/ana_y_los_7_s2_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802212300 +0200" stop="20260802223000 +0200" channel="/node/5684">
+		<title lang="es">Ana y los 7 - Episodio 08</title>
+		<desc lang="es">Ana recibe la inesperada visita de unas monjas del orfanato. Le traen la correspondencia que en su dia la madre mantuvo con ella. Misteriosamente, aquellas cartas permanecieron ocultas en un cajon cerrado y nunca llegaron a sus manos.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/ana_y_los_7_s2_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802083700 +0200" stop="20260802094300 +0200" channel="/node/5686">
+		<title lang="es">Curro Jiménez - La gran batalla de Andalucía</title>
+		<desc lang="es">Curro Jiménez trata de apoderarse de los tributos que una marquesa recauda para un general francés.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/curro_jiminiez_thumbnail_16x9_widescreen.jpg"/>
+	</programme>
+	<programme start="20260802094300 +0200" stop="20260802105000 +0200" channel="/node/5686">
+		<title lang="es">Curro Jiménez - El secuestro</title>
+		<desc lang="es">El hijo de un rico hacendado es raptado. Llega una petición de rescate firmada por Curro Jiménez.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/curro_jiminiez_thumbnail_16x9_widescreen.jpg"/>
+	</programme>
+	<programme start="20260802105000 +0200" stop="20260802115300 +0200" channel="/node/5686">
+		<title lang="es">Curro Jiménez - El barquero de Cantillana</title>
+		<desc lang="es">Francisco Jiménez mata a varias personas del pueblo y decide pasarse al campo de los bandoleros.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/curro_jiminiez_thumbnail_16x9_widescreen.jpg"/>
+	</programme>
+	<programme start="20260802115300 +0200" stop="20260802125800 +0200" channel="/node/5686">
+		<title lang="es">Curro Jiménez - Un estudiante, un fraile, un algarrobo</title>
+		<desc lang="es">Curro Jiménez comete un asalto en el que conoce a "El Algarrobo", del cual se hace amigo.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/curro_jiminiez_thumbnail_16x9_widescreen.jpg"/>
+	</programme>
+	<programme start="20260802125800 +0200" stop="20260802140000 +0200" channel="/node/5686">
+		<title lang="es">Curro Jiménez - 20.000 onzas mexicanas</title>
+		<desc lang="es">Curro Jiménez se mete en una operación en la que hay en juego una fortuna en piezas de oro.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/curro_jiminiez_thumbnail_16x9_widescreen.jpg"/>
+	</programme>
+	<programme start="20260802140000 +0200" stop="20260802150800 +0200" channel="/node/5686">
+		<title lang="es">Curro Jiménez - Aquí durmió Carlos III</title>
+		<desc lang="es">Curro Jiménez y sus hombres quieren un importante tesoro y asaltan a un embajador marroquí.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/curro_jiminiez_thumbnail_16x9_widescreen.jpg"/>
+	</programme>
+	<programme start="20260802150800 +0200" stop="20260802161500 +0200" channel="/node/5686">
+		<title lang="es">Curro Jiménez - La gran batalla de Andalucía</title>
+		<desc lang="es">Curro Jiménez trata de apoderarse de los tributos que una marquesa recauda para un general francés.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/curro_jiminiez_thumbnail_16x9_widescreen.jpg"/>
+	</programme>
+	<programme start="20260802161500 +0200" stop="20260802172100 +0200" channel="/node/5686">
+		<title lang="es">Curro Jiménez - El secuestro</title>
+		<desc lang="es">El hijo de un rico hacendado es raptado. Llega una petición de rescate firmada por Curro Jiménez.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/curro_jiminiez_thumbnail_16x9_widescreen.jpg"/>
+	</programme>
+	<programme start="20260802172100 +0200" stop="20260802182400 +0200" channel="/node/5686">
+		<title lang="es">Curro Jiménez - El barquero de Cantillana</title>
+		<desc lang="es">Francisco Jiménez mata a varias personas del pueblo y decide pasarse al campo de los bandoleros.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/curro_jiminiez_thumbnail_16x9_widescreen.jpg"/>
+	</programme>
+	<programme start="20260802182400 +0200" stop="20260802193000 +0200" channel="/node/5686">
+		<title lang="es">Curro Jiménez - Un estudiante, un fraile, un algarrobo</title>
+		<desc lang="es">Curro Jiménez comete un asalto en el que conoce a "El Algarrobo", del cual se hace amigo.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/curro_jiminiez_thumbnail_16x9_widescreen.jpg"/>
+	</programme>
+	<programme start="20260802193000 +0200" stop="20260802202900 +0200" channel="/node/5686">
+		<title lang="es">Curro Jiménez - 20.000 onzas mexicanas</title>
+		<desc lang="es">Curro Jiménez se mete en una operación en la que hay en juego una fortuna en piezas de oro.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/curro_jiminiez_thumbnail_16x9_widescreen.jpg"/>
+	</programme>
+	<programme start="20260802202900 +0200" stop="20260802213600 +0200" channel="/node/5686">
+		<title lang="es">Curro Jiménez - Aquí durmió Carlos III</title>
+		<desc lang="es">Curro Jiménez y sus hombres quieren un importante tesoro y asaltan a un embajador marroquí.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/curro_jiminiez_thumbnail_16x9_widescreen.jpg"/>
+	</programme>
+	<programme start="20260802090100 +0200" stop="20260802102400 +0200" channel="/node/11370">
+		<title lang="es">El encanto</title>
+		<desc lang="es">Bruno está en pareja con Juliana, una famosa conductora de televisión. Ella quiere ser madre, pero él no sabe si es el momento adecuado.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11369_202608_Ni1X24XSL939qyHO5df17mlDrpfOBRP4H0yLSni2J1Q.jpg"/>
+	</programme>
+	<programme start="20260802102400 +0200" stop="20260802122600 +0200" channel="/node/11370">
+		<title lang="es">Una vez más</title>
+		<desc lang="es">Abril dejó a Dani atrás hace cinco años, cuando decidió probar suerte en Londres. Ha vuelto a casa a enterrar a su abuela. Paseando por la ciudad con él, se da cuenta de que lo ha echado de menos.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11369_202608_Ln3eDY22i_e1ZyweNPRtjqUXsLQL7S9NqqZrdzi1ayI.jpg"/>
+	</programme>
+	<programme start="20260802122600 +0200" stop="20260802143200 +0200" channel="/node/11370">
+		<title lang="es">Elis, la voz de Brasil</title>
+		<desc lang="es">La vida de Elis Regina, sin duda la mayor cantante brasileña de todos los tiempos, se narra en esta película biográfica con un ritmo enérgico y palpitante.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11369_202608_-2tRaqqY-9WQDOURkcQQRXRPpOdJ51U9d2eVxWtB6Ak.jpg"/>
+	</programme>
+	<programme start="20260802143200 +0200" stop="20260802160100 +0200" channel="/node/11370">
+		<title lang="es">Especial Nominaciones Premios Goya Sección Oficial y Mundoplus.tv</title>
+		<desc lang="es">Sección Oficial emite un especial dedicado a las nominaciones de los Premios Goya 2026, repasando las películas y profesionales que protagonizan la temporada de premios y comentando las principales sorpresas y favoritas de este año.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11369_202608_Zev4eHoBBdLEEjRLnYRAzBS9IRRsx2WyH2E4315FpeI.jpg"/>
+	</programme>
+	<programme start="20260802160100 +0200" stop="20260802170400 +0200" channel="/node/11370">
+		<title lang="es">Sección Oficial 1x16</title>
+		<desc lang="es">None</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11369_202608_gfiBtVHYIOHQ41mWbMtzNHBbiRq5BSxwVJUVVKUJIgI.jpg"/>
+	</programme>
+	<programme start="20260802170400 +0200" stop="20260802184200 +0200" channel="/node/11370">
+		<title lang="es">Woman of the Photographs</title>
+		<desc lang="es">Un fotógrafo misógino comienza un retorcido romance con una mujer que sufre de dismorfia corporal.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11369_202608_kfalm7WW5GYG6m4kIg6EALcMPTaahQmhlvClMil7yFE.jpg"/>
+	</programme>
+	<programme start="20260802184200 +0200" stop="20260802205100 +0200" channel="/node/11370">
+		<title lang="es">No identificado</title>
+		<desc lang="es">En una pequeña ciudad al norte de Rumanía. Un caso sin resolver. Un criminal desconocido. Un policía obsesionado.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11369_202608_7-IIj_qGWMs5IrcN_wkkkgW92Av1gin3PLWtZPqthsY.jpg"/>
+	</programme>
+	<programme start="20260802205100 +0200" stop="20260802222500 +0200" channel="/node/11370">
+		<title lang="es">Lo mejor de los Premios PRODU 2025</title>
+		<desc lang="es">El programa reúne los mejores momentos de la ceremonia de los Premios PRODU 2025, condensando emoción, espectáculo y lo más destacado de la industria audiovisual iberoamericana. Un recorrido dinámico por las sorpresas, discursos y tendencias que marcaron la gala. Un resumen vibrante que captura el espíritu de una noche llena de talento e innovación.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11369_202608_4oRLI2U69OcUQZB3u02udORCZ38H3emo-Vsv9OmU0wk.jpg"/>
+	</programme>
+	<programme start="20260802222500 +0200" stop="20260802233200 +0200" channel="/node/11370">
+		<title lang="es">Sección Oficial 1x18a</title>
+		<desc lang="es">"Sección Oficial” charla esta semana con Pedro Cenjor, director de "La Boda". Además, se va de "La lucha", recorre los últimos rodajes y repasa los próximos estrenos de cine.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11369_202608_b5OQPvvpxo73bYLJ63hqAzqj90GyYAF2-4LBlWJ6yio.jpg"/>
+	</programme>
+	<programme start="20260802233200 +0200" stop="20260803003500 +0200" channel="/node/11370">
+		<title lang="es">Sección Oficial 1x09 by Mundoplus.tv</title>
+		<desc lang="es">"Sección Oficial" charla esta semana con Javier Vila, director de "Velintonia 3". Además, echa un vistazo a los próximos estrenos y viaja al País Vasco y sus leyendas con "Gaua".</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11369_202608_rpuIm_Y6UEdU_bPMYO4--ODSsbPZIICkuG1m7vv_-PE.jpg"/>
+	</programme>
+	<programme start="20260803003500 +0200" stop="20260803021300 +0200" channel="/node/11370">
+		<title lang="es">522. Un gato, un chino y mi padre</title>
+		<desc lang="es">La doble ganadora del Goya, Natalia de Molina, protagoniza el segundo largomentraje de Paco R. Baños ("La Peste", "Ali") una asfixiante road movie sobre una mujer que sufre agorafobia.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11369_202608_e9UobrNUNiHrXERIrdngDQ6IPh8BLY9dpTMB3A-FJvI.jpg"/>
+	</programme>
+	<programme start="20260803021300 +0200" stop="20260803034200 +0200" channel="/node/11370">
+		<title lang="es">Landscape from Paradise 2</title>
+		<desc lang="es">Landscape from Paradise es una serie documental de relajación visual que recorre la belleza del planeta Tierra en todas sus formas: naturaleza, animales, seres humanos, ciudades, paisajes urbanos y grandes ecosistemas.
+
+A través de imágenes espectaculares de montañas, océanos, bosques, desiertos, fauna salvaje, culturas, arquitectura y vida cotidiana, acompañadas por una música inspiradora y envolvente, cada episodio propone una experiencia serena, elegante y universal.
+
+Pensada para canales FAST, Landscape from Paradise invita a desconectar y contemplar el mundo como un gran paisaje vivo: diverso, hipnótico y profundamente emocionante.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11369_202608_gRrtweLngp79ItaabLNNAgjx-8vKNm8xgz6OUIaDjtY.jpg"/>
+	</programme>
+	<programme start="20260802084900 +0200" stop="20260802104300 +0200" channel="/es/node/5682">
+		<title lang="es">La Casa Roja</title>
+		<desc lang="es">La hija adoptiva de Peter y Ellen les pide que permitan que su amigo Nath les ayude en las labores de la granja. Éste insistirá en alojarse en una casa dentro del bosque, donde se escuchan gritos durante la noche. Decidirá descubrir qué pasa.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/la_casa_roja_thumbnail_16x9_widescreen_es_0.jpg"/>
+	</programme>
+	<programme start="20260802104300 +0200" stop="20260802115800 +0200" channel="/es/node/5682">
+		<title lang="es">La legión de los hombres sin alma</title>
+		<desc lang="es">Un joven recurre a un médico brujo para alejar a la mujer que ama de su prometido, pero en cambio la convierte en una esclava zombie.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/la_legion_de_los_hombres_sin_alma_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802115800 +0200" stop="20260802140000 +0200" channel="/es/node/5682">
+		<title lang="es">Cyrano de Bergerac</title>
+		<desc lang="es">Aventuras y desventuras de Cyrano, intrépido caballero espadachín de considerable nariz, quien se enamora de Roxanne y, por su complejo, decide ayudar a Christian, otro caballero, a conquistar a la dama. Utilizará sus dotes con la poesía.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/cyrano_de_bergerac_thumbnail_16x9_widescreen_es_0.jpg"/>
+	</programme>
+	<programme start="20260802140000 +0200" stop="20260802160500 +0200" channel="/es/node/5682">
+		<title lang="es">Camino de Santa Fe</title>
+		<desc lang="es">El teniente Stuart y su amigo Custer, son destinados al puesto más peligroso del ejército y tendrán que vérselas con el abolicionista Brown, en los días precedentes a la Guerra Civil. Y surgirá la rivalidad entre ellos por el amor…</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/camino_de_santa_fe_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802160500 +0200" stop="20260802173900 +0200" channel="/es/node/5682">
+		<title lang="es">La Pacifista</title>
+		<desc lang="es">Italia, década de los setenta. Una joven periodista de televisión que se declara pacifista, se enamora de un chico que pertenece a un grupo extremista.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/la_pacifista_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802173900 +0200" stop="20260802190400 +0200" channel="/es/node/5682">
+		<title lang="es">Los viajes de Gulliver</title>
+		<desc lang="es">Gulliver es un marinero cuyo barco naufraga tras una tormenta y despierta en la playa de Lilliput, hecho prisionero por sus pequeños y extraños habitantes. Él se verá envuelto en la disputa entre dos pequeños reinos para evitar la guerra entre ellos.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/los_viajes_de_gulliver_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802190400 +0200" stop="20260802210100 +0200" channel="/es/node/5682">
+		<title lang="es">La Casa Roja</title>
+		<desc lang="es">La hija adoptiva de Peter y Ellen les pide que permitan que su amigo Nath les ayude en las labores de la granja. Éste insistirá en alojarse en una casa dentro del bosque, donde se escuchan gritos durante la noche. Decidirá descubrir qué pasa.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/la_casa_roja_thumbnail_16x9_widescreen_es_0.jpg"/>
+	</programme>
+	<programme start="20260802210100 +0200" stop="20260802221300 +0200" channel="/es/node/5682">
+		<title lang="es">La legión de los hombres sin alma</title>
+		<desc lang="es">Un joven recurre a un médico brujo para alejar a la mujer que ama de su prometido, pero en cambio la convierte en una esclava zombie.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/la_legion_de_los_hombres_sin_alma_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802221300 +0200" stop="20260803001600 +0200" channel="/es/node/5682">
+		<title lang="es">Cyrano de Bergerac</title>
+		<desc lang="es">Aventuras y desventuras de Cyrano, intrépido caballero espadachín de considerable nariz, quien se enamora de Roxanne y, por su complejo, decide ayudar a Christian, otro caballero, a conquistar a la dama. Utilizará sus dotes con la poesía.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/cyrano_de_bergerac_thumbnail_16x9_widescreen_es_0.jpg"/>
+	</programme>
+	<programme start="20260803001600 +0200" stop="20260803020000 +0200" channel="/es/node/5682">
+		<title lang="es">Rabia</title>
+		<desc lang="es">Una joven desarrolla un gusto por la sangre humana después de una cirugía plástica experimental, y sus víctimas se convierten en zombis sedientos de sangre, lo que provoca una epidemia en toda la ciudad.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/rabid_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260803020000 +0200" stop="20260803035100 +0200" channel="/es/node/5682">
+		<title lang="es">El Milagro del Cante</title>
+		<desc lang="es">La avería de un autobús hace que algunos extranjeros se conviertan en partícipes de la belleza del cante jondo. Asombrados, lo predicarán entre los turistas y convertirán el pueblo en parada obligatoria en las rutas para disfrutar del mejor folclore español.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/el_milagro_del_cante_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260803035100 +0200" stop="20260803054500 +0200" channel="/es/node/5682">
+		<title lang="es">El ángel y el pistolero</title>
+		<desc lang="es">Un malvado pistolero, herido, es socorrido por una familia en un pequeño pueblo. Las atenciones de la hija, hacen que se enamore y que se produzca un cambio en su manera de pensar, queriendo abandonar la vida de pistolero. Pero su enemigo aún le persigue.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/el_angel_y_el_pistolero_thumbnail_16x9_widescreen_es_v2.jpg"/>
+	</programme>
+	<programme start="20260802084300 +0200" stop="20260802103200 +0200" channel="/es/node/5680">
+		<title lang="es">La posesión de Emma Evans</title>
+		<desc lang="es">Harta de un ambiente familiar que considera excesivamente asfixiante y autoritario, Emma Evans, una adolescente problemática e insatisfecha, decide liberarse de esa atmófera opresiva. Para conseguirlo, da rienda suelta a sus deseos más ocultos, sin sospechar que desencadenará oscuras y poderosas fuerzas que no podrá controlar y que traerán el horror y la tragedia al hogar de los Evans.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/la_posesion_de_emma_evans_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802103200 +0200" stop="20260802120800 +0200" channel="/es/node/5680">
+		<title lang="es">El destino de los Burnett</title>
+		<desc lang="es">Shattered es una historia sobre la traición familiar, la pérdida del amor y un oscuro secreto que afecta a una poderosa familia política del sur de Estados Unidos. Kate descubre el pasado de Logan, desvelando secretos familiares y poniéndose en peligro.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/shattered_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802120800 +0200" stop="20260802140000 +0200" channel="/es/node/5680">
+		<title lang="es">Webmaster</title>
+		<desc lang="es">En un mundo futuro controlado por la inteligencia artificial, un solitario hacker, JB, se ve atrapado en un universo particular creado por el enigmático Stoliss. JB recibe el título de webmaster. Cuando otro hacker irrumpe en el mundo virtual de Stoliss, JB recibe la misión de capturarlo... O de morir en el intento. JB sólo tiene 35 horas para cazarlo. Su vida está en juego.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/webmaster_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802140000 +0200" stop="20260802154900 +0200" channel="/es/node/5680">
+		<title lang="es">REC 4: Apocalipsis</title>
+		<desc lang="es">Una desafortunada reportera de televisión es rescatada y enviada en un viaje a través del océano, pero es seguida por el virus mortal que la ha asolado a ella y a muchos otros.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/rec_4_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802154900 +0200" stop="20260802173800 +0200" channel="/es/node/5680">
+		<title lang="es">La posesión de Emma Evans</title>
+		<desc lang="es">Harta de un ambiente familiar que considera excesivamente asfixiante y autoritario, Emma Evans, una adolescente problemática e insatisfecha, decide liberarse de esa atmófera opresiva. Para conseguirlo, da rienda suelta a sus deseos más ocultos, sin sospechar que desencadenará oscuras y poderosas fuerzas que no podrá controlar y que traerán el horror y la tragedia al hogar de los Evans.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/la_posesion_de_emma_evans_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802173800 +0200" stop="20260802193000 +0200" channel="/es/node/5680">
+		<title lang="es">Webmaster</title>
+		<desc lang="es">En un mundo futuro controlado por la inteligencia artificial, un solitario hacker, JB, se ve atrapado en un universo particular creado por el enigmático Stoliss. JB recibe el título de webmaster. Cuando otro hacker irrumpe en el mundo virtual de Stoliss, JB recibe la misión de capturarlo... O de morir en el intento. JB sólo tiene 35 horas para cazarlo. Su vida está en juego.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/webmaster_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802193000 +0200" stop="20260802210500 +0200" channel="/es/node/5680">
+		<title lang="es">El destino de los Burnett</title>
+		<desc lang="es">Shattered es una historia sobre la traición familiar, la pérdida del amor y un oscuro secreto que afecta a una poderosa familia política del sur de Estados Unidos. Kate descubre el pasado de Logan, desvelando secretos familiares y poniéndose en peligro.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/shattered_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802210500 +0200" stop="20260802223900 +0200" channel="/es/node/5680">
+		<title lang="es">Presunto Secuestro</title>
+		<desc lang="es">Inspirado en una historia real. Elle es secuestrada, maltratada, atormentada y luego liberada de repente a un costado del camino, sin explicación. Su novio Billy y su hermana Jen corren en su ayuda después de que es recuperada por la policía.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/the_alleged_abduction_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802223900 +0200" stop="20260803002500 +0200" channel="/es/node/5680">
+		<title lang="es">Bosque De Sombras</title>
+		<desc lang="es">Lucy y Norman, una pareja inglesa cuya relación no atraviesa un buen momento, deciden pasar las vacaciones en la casa que sus amigos han comprado al norte de España. Pero la tranquilidad se ve interrumpida cuando descubren a una niña con las manos horriblemente deformadas recluida en el bosque.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/bosque_de_sombras_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260803002500 +0200" stop="20260803020000 +0200" channel="/es/node/5680">
+		<title lang="es">El abismo</title>
+		<desc lang="es">Una escaladora queda atrapada en la ladera de una montaña en su lucha contra cuatro asesinos que la esperan en un saliente a seis metros por encima de ella.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/the_ledge_thumbnail_16x9_widescreen_es_v2.jpg"/>
+	</programme>
+	<programme start="20260803020000 +0200" stop="20260803041700 +0200" channel="/es/node/5680">
+		<title lang="es">El Lobo</title>
+		<desc lang="es">La historia de Mikel Lejarza, alias "Lobo", un agente de los servicios secretos españoles que consiguió infiltrarse en ETA entre 1973 y 1975. La "Operación Lobo" generó la caída de unos 150 activistas y colaboradores, incluyendo a los miembros más destacados de los comandos especiales y a la cúpula dirigente.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/el_lobo_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260803041700 +0200" stop="20260803055000 +0200" channel="/es/node/5680">
+		<title lang="es">Fonda Sangrienta</title>
+		<desc lang="es">Su tío confía a dos hermanos la tarea de defender el canibalismo ritual del antiguo culto de Sheetar. Para ello tienen que preparar un banquete de sacrificio por la resurrección de su diosa.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/blood_diner_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802085800 +0200" stop="20260802103000 +0200" channel="/node/5678">
+		<title lang="es">Bring Him Back Dead</title>
+		<desc lang="es">Después de un atraco fallido, se ordena a una violenta banda de delincuentes que localicen y eliminen al hombre que los traicionó y huyó con su botín.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/bring_him_back_dead_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802103000 +0200" stop="20260802122900 +0200" channel="/node/5678">
+		<title lang="es">Lies We Tell</title>
+		<desc lang="es">Un conductor de confianza debe lidiar con la amante musulmana de su jefe muerto, cuyo oscuro pasado lo arrastra a un enfrentamiento de vida o muerte con su notorio primo / ex esposo gángster.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/lies_we_tell_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802122900 +0200" stop="20260802140000 +0200" channel="/node/5678">
+		<title lang="es">Contrición</title>
+		<desc lang="es">Cuando Tara una joven thailandesa con poderes místicos desaparece, Axe y su viejo equipo de compañeros inician su búsqueda</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/attrition_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802140000 +0200" stop="20260802154100 +0200" channel="/node/5678">
+		<title lang="es">Vampariah</title>
+		<desc lang="es">Mahal forma parte de un escuadrón de élite de hábiles cazadores encargados</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/vampariah_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802154100 +0200" stop="20260802171500 +0200" channel="/node/5678">
+		<title lang="es">Bring Him Back Dead</title>
+		<desc lang="es">Después de un atraco fallido, se ordena a una violenta banda de delincuentes que localicen y eliminen al hombre que los traicionó y huyó con su botín.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/bring_him_back_dead_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802171500 +0200" stop="20260802190900 +0200" channel="/node/5678">
+		<title lang="es">Los héroes de las Ardenas</title>
+		<desc lang="es">La historia real de la heroica experiencia de Don Smith en la Batalla de las Ardenas, cuando formaba parte del 94º de Infantería.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/los_heroes_de_las_ardenas_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802190900 +0200" stop="20260802210900 +0200" channel="/node/5678">
+		<title lang="es">Lies We Tell</title>
+		<desc lang="es">Un conductor de confianza debe lidiar con la amante musulmana de su jefe muerto, cuyo oscuro pasado lo arrastra a un enfrentamiento de vida o muerte con su notorio primo / ex esposo gángster.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/lies_we_tell_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802210900 +0200" stop="20260802224000 +0200" channel="/node/5678">
+		<title lang="es">Contrición</title>
+		<desc lang="es">Cuando Tara una joven thailandesa con poderes místicos desaparece, Axe y su viejo equipo de compañeros inician su búsqueda</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/attrition_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802224000 +0200" stop="20260803002200 +0200" channel="/node/5678">
+		<title lang="es">Balas y Katanas</title>
+		<desc lang="es">Balas y Katanas es una película loca, descarada y…diferente. Una divertida experiencia inmersiva para el espectador, con una primera parte de 50 minutos, rodada en plano secuencia, en la cual el espectador acompaña a los protagonistas en su aventura y sus peleas. A la que le seguirá una segunda parte de otros 40 minutos, rodada al más puro estilo del cine clásico de Hong Kong de los ’80. Una loca aventura llena de guiños al género, "cameos" y homenajes, donde los protagonistas incluso se llegarán a reír hasta de sí mismos.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/bullets_and_katanas_thumbnail_16x9_widescreen_las.jpg"/>
+	</programme>
+	<programme start="20260803002200 +0200" stop="20260803020000 +0200" channel="/node/5678">
+		<title lang="es">La Historia de Amber</title>
+		<desc lang="es">Basada en la historia real del secuestro de Amber Hagerman, una niña de 9 años secuestrada mientras paseaba en bicicleta, y que, tras una desesperada búsqueda, apareció asesinada en el bosque. Esta tragedia llevó a su madre, apoyada por la familia y vecinos, a idear un nuevo sistema para encontrar niños desaparecidos: la Alerta Ambert, sistema que se implementó en varios países desde 1996.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/ambers_story_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260803020000 +0200" stop="20260803035500 +0200" channel="/node/5678">
+		<title lang="es">Pena de Muerte</title>
+		<desc lang="es">Death Penalty es un documental sobre la serie de crímenes más emocionante registrada en la historia de Chile. Un grupo de asesinos psicópatas cometió asesinatos que aterrorizó a todo un país. La historia refleja la evolución de una mente criminal que se desarrolló y se manifestó durante el gobierno militar en los años 80.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/pena_de_muerte_thumbnail_16x9_widescreen_las.jpg"/>
+	</programme>
+	<programme start="20260803035500 +0200" stop="20260803054400 +0200" channel="/node/5678">
+		<title lang="es">La doble imagen del crimen</title>
+		<desc lang="es">Un fotógrafo de una revista masculina se siente perturbado por un sueño recurrente en el que mata a sus modelos.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/double_exposure_thumbnail_16x9_widescreen_es_0.jpg"/>
+	</programme>
+	<programme start="20260802092500 +0200" stop="20260802101600 +0200" channel="/node/11234">
+		<title lang="es">Asesinatos en Cruceros - Vincent</title>
+		<desc lang="es">Antiguos compañeros universitarios se abordan un crucero, entre ellos uno que es un excéntrico coleccionista de cuchillos. Cuando alguien termina apuñalado, todas las miradas se dirigen al coleccionista y su comportamiento extraño.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/cruise_ship_killers_s1_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802101600 +0200" stop="20260802110600 +0200" channel="/node/11234">
+		<title lang="es">Asesinatos en Cruceros - Erica</title>
+		<desc lang="es">Una experta en redess sociales, quien busca popularidad viajando en crucero, es brutalmente asesinada en una cabina de clase baja, las preguntas giran en torno a quién podría haber cometido tal crimen en su contra.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/cruise_ship_killers_s1_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802110600 +0200" stop="20260802115600 +0200" channel="/node/11234">
+		<title lang="es">Asesinatos en Cruceros - George</title>
+		<desc lang="es">Los recién casados abordan un crucero, pero una noche uno de ellos desaparece. Un toldo manchado de sangre es la única pista del destino de un joven, dejando más preguntas que respuestas sobre lo que sucedió.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/cruise_ship_killers_s1_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802115600 +0200" stop="20260802124600 +0200" channel="/node/11234">
+		<title lang="es">Asesinatos en Cruceros - Gordon</title>
+		<desc lang="es">Un granjero y su esposa toman un crucero para celebrar su trabajo y buena fortuna. Pero de pronto todo cambia y los amigos que están a bordo celebrando con ellos ahora ayudan en la búsqueda del granjero, quien ha desaparecido en el mar.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/cruise_ship_killers_s1_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802124600 +0200" stop="20260802141300 +0200" channel="/node/11234">
+		<title lang="es">Evolution of Violence</title>
+		<desc lang="es">Guatemala. La guerra terminó hace mucho tiempo. Aunque la gente quiere olvidarlo, la violencia continúa. Cada día, los periodistas informan sobre el próximo asesinato y los trabajadores sociales ayudan a los familiares de los asesinados. La sociedad sufre las consecuencias de los 36 años de guerra civil. Se encuentran fosas comunes en las montañas, ex rebeldes lloran a sus camaradas y un criminal de guerra tiene pesadillas sobre las cosas que ha hecho.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/evolution_of_violence_thumbnail_16x9_widescreen_las.jpg"/>
+	</programme>
+	<programme start="20260802141300 +0200" stop="20260802150100 +0200" channel="/node/11234">
+		<title lang="es">Enfermeros que Matan - Beverly Allitt</title>
+		<desc lang="es">Utilizando el acceso exclusivo a ocho horas de entrevistas, testimonios de investigadores de la policía y reconstrucciones dramáticas, en este programa se cuenta la escalofriante historia de la enfermera Beverley Allitt.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/nurses_who_kill_thumbnail_16x9_widescreen_es_0.jpg"/>
+	</programme>
+	<programme start="20260802150100 +0200" stop="20260802155200 +0200" channel="/node/11234">
+		<title lang="es">Enfermeros que Matan - Kimberly Saenz</title>
+		<desc lang="es">¿Era uno de los suyos - una enfermera de Lufkin, una asesina en serie? Acceso exclusivo a entrevistas policiales, testimonios de investigadores y reconstrucciones dramáticas de hechos reales</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/nurses_who_kill_thumbnail_16x9_widescreen_es_4.jpg"/>
+	</programme>
+	<programme start="20260802155200 +0200" stop="20260802164100 +0200" channel="/node/11234">
+		<title lang="es">Enfermeros que Matan - Charles Cullen</title>
+		<desc lang="es">Charles Cullen fue un enfermero que se cree mató a más de 300 pacientes. Los expertos analizan las acciones y el motivo de este insidioso asesino en serie.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/nurses_who_kill_thumbnail_16x9_widescreen_es_8.jpg"/>
+	</programme>
+	<programme start="20260802164100 +0200" stop="20260802173400 +0200" channel="/node/11234">
+		<title lang="es">El Tercer Reich en Color - Episodio 01 – El Dictador</title>
+		<desc lang="es">Las imágenes del Tercer Reich en la memoria de generaciones siempre se conservan en blanco y negro. Pero ocultas en archivos fílmicos y colecciones privadas, también se han conservado imágenes completamente diferentes, en color. Tomadas en las playas de Normandía y en sencillos festivales folclóricos, documentan las atrocidades de la Wehrmacht durante la guerra y la vida en la granja de montaña de Hitler, y aportan una realidad opresiva a las imágenes del criminal régimen nazi.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/the_third_reich_in_color_thumbnail_16x9_widescreen_las.jpg"/>
+	</programme>
+	<programme start="20260802173400 +0200" stop="20260802182600 +0200" channel="/node/11234">
+		<title lang="es">El Tercer Reich en Color - Episodio 02 – Guerra Contra Hitler</title>
+		<desc lang="es">Las imágenes del Tercer Reich en la memoria de generaciones siempre se conservan en blanco y negro. Pero ocultas en archivos fílmicos y colecciones privadas, también se han conservado imágenes completamente diferentes, en color. Tomadas en las playas de Normandía y en sencillos festivales folclóricos, documentan las atrocidades de la Wehrmacht durante la guerra y la vida en la granja de montaña de Hitler, y aportan una realidad opresiva a las imágenes del criminal régimen nazi.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/the_third_reich_in_color_thumbnail_16x9_widescreen_las.jpg"/>
+	</programme>
+	<programme start="20260802182600 +0200" stop="20260802192000 +0200" channel="/node/11234">
+		<title lang="es">El Tercer Reich en Color - Episodio 03 – La Liberación de Francia</title>
+		<desc lang="es">Las imágenes del Tercer Reich en la memoria de generaciones siempre se conservan en blanco y negro. Pero ocultas en archivos fílmicos y colecciones privadas, también se han conservado imágenes completamente diferentes, en color. Tomadas en las playas de Normandía y en sencillos festivales folclóricos, documentan las atrocidades de la Wehrmacht durante la guerra y la vida en la granja de montaña de Hitler, y aportan una realidad opresiva a las imágenes del criminal régimen nazi.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/the_third_reich_in_color_thumbnail_16x9_widescreen_las.jpg"/>
+	</programme>
+	<programme start="20260802192000 +0200" stop="20260802210000 +0200" channel="/node/11234">
+		<title lang="es">Seré asesinado</title>
+		<desc lang="es">En mayo de 2009, el acaudalado abogado Rodrigo Rosenberg fue asesinado mientras paseaba en bicicleta por la Ciudad de Guatemala, un lugar con una alta tasa de homicidios. Antes de morir, se sintió amenazado, creyendo que lo matarían, especialmente tras el asesinato de su amante. Grabó un video acusando al presidente, que casi derrocó al gobierno. Una investigación sobre su caso reveló verdades impactantes.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/will_be_murdered_thumbnail_16x9_widescreen_las.jpg"/>
+	</programme>
+	<programme start="20260802083600 +0200" stop="20260802094400 +0200" channel="/node/11368">
+		<title lang="es">Todo sobre Pocoyó</title>
+		<desc lang="es">Una mirada especial al mundo curioso de Pocoyó y a su amor por aprender y jugar.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11367_202608_gpZxy8OdE-XFo1xffdzt2i-QRCNOw1hsm_OqsArYOGM.jpg"/>
+	</programme>
+	<programme start="20260802094400 +0200" stop="20260802105200 +0200" channel="/node/11368">
+		<title lang="es">Al estilo de Loula</title>
+		<desc lang="es">Pocoyó intenta hacerlo todo como Loula y descubre qué hace único a cada amigo.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11367_202608_F3X4Vxn3l4CJiwiPeRut2pxLc4wzrz5EF6NXZDa0GH0.jpg"/>
+	</programme>
+	<programme start="20260802105200 +0200" stop="20260802120700 +0200" channel="/node/11368">
+		<title lang="es">Un día en la naturaleza</title>
+		<desc lang="es">Los amigos exploran la naturaleza, conocen pequeñas criaturas y disfrutan del aire fresco.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11367_202608_FxA7YfZryyTcgZwDBzw62npkyHqMMyWh8qgplZG_nQA.jpg"/>
+	</programme>
+	<programme start="20260802120700 +0200" stop="20260802131400 +0200" channel="/node/11368">
+		<title lang="es">Un día con Pocoyó</title>
+		<desc lang="es">Pasa un día entero y divertido con Pocoyó, lleno de sorpresas, aprendizajes y diversión.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11367_202608_y2SQEMSZiCOnyQoH4J3dcgbRxw3xz-Hr0jHejaBp8yw.jpg"/>
+	</programme>
+	<programme start="20260802131400 +0200" stop="20260802142100 +0200" channel="/node/11368">
+		<title lang="es">Lo mejor de la T4</title>
+		<desc lang="es">Lo más destacado de la cuarta temporada, llena de creatividad, amabilidad y sorpresas.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11367_202608_wp9jsIVQ5yIf9_jYM7Y-_kJW6wF8IFXC4RtAERv0gOw.jpg"/>
+	</programme>
+	<programme start="20260802142100 +0200" stop="20260802145500 +0200" channel="/node/11368">
+		<title lang="es">El Globo</title>
+		<desc lang="es">El Globo | El Juego Del Silencio | Roberto Ultraprotector | El Coche De Pocoyó</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11367_202608_Apvgx5-2oBozcfW-BqEvQ1OIjvaBJ4BhzbitbWtYHMU.jpg"/>
+	</programme>
+	<programme start="20260802145500 +0200" stop="20260802152800 +0200" channel="/node/11368">
+		<title lang="es">Inventions</title>
+		<desc lang="es">Inventions | Mi Héroe | El Rescate | El Amigo de Pocoyó</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11367_202608_EkV-7c0Ml-w3a9uXhmEc2c2l4mbZBp3YvIh_D0qmjPE.jpg"/>
+	</programme>
+	<programme start="20260802152800 +0200" stop="20260802160200 +0200" channel="/node/11368">
+		<title lang="es">El Picnic De Elly</title>
+		<desc lang="es">El Picnic De Elly  | Nina Descubre El Mundo | El Mando | La Raqueta</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11367_202608_IbkZHirZnpbOnaprvWSgJT6KiVegm7zlo1Psbsktp2g.jpg"/>
+	</programme>
+	<programme start="20260802160200 +0200" stop="20260802163500 +0200" channel="/node/11368">
+		<title lang="es">La Pista de Baile</title>
+		<desc lang="es">La Pista de Baile | ¡Pierdete Loula! | Zapatillas con Truco | Pato Fotógrafo</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11367_202608_MjuiJh8zIUiuoZUjdd3TyPHLP-Oxlzh3rs9M28eY-9o.jpg"/>
+	</programme>
+	<programme start="20260802163500 +0200" stop="20260802170800 +0200" channel="/node/11368">
+		<title lang="es">El Marciano Malhumorado</title>
+		<desc lang="es">El Marciano Malhumorado | Bajo el Mar | La Gran Exposición | El Misterio del Monstruo</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11367_202608_k1V5w0RcAvA6d9pFId3a0vMW9xfN3oLA2c7lVa0eIN0.jpg"/>
+	</programme>
+	<programme start="20260802170800 +0200" stop="20260802174000 +0200" channel="/node/11368">
+		<title lang="es">Poczilla</title>
+		<desc lang="es">Poczilla | Elly Sobre Hielo | ¡Adiós, Amigos | Doble Juego</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11367_202608_QuLb23Idq2OQbngFFCs4FURr8CGf8VHQnayIvF0FWjE.jpg"/>
+	</programme>
+	<programme start="20260802174000 +0200" stop="20260802181300 +0200" channel="/node/11368">
+		<title lang="es">La Casita de Elly</title>
+		<desc lang="es">La Casita de Elly | Teatro de Marionetas | Arriba y Abajo | El Desayuno de Pocoyó</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/epg/360x180/epg_11367_202608_pPd8wJc4SilCgyrc7BCdTx5qR-Vt5VZ6Q7Hi8wa9RUg.jpg"/>
+	</programme>
+	<programme start="20260802090400 +0200" stop="20260802093100 +0200" channel="/node/10078">
+		<title lang="es">David El Gnomo - La Pequeña Bruja</title>
+		<desc lang="es">Los malvados trolls tienden una trampa al gnomo David y a su zorro Swift para hacerlos prisioneros. Ante la fuerza bruta de un troll, el gnomo no tiene más armas que la inteligencia. ¿Conseguirán los trolls sus propósitos?</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/david_el_gnomo_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802093100 +0200" stop="20260802100000 +0200" channel="/node/10078">
+		<title lang="es">David El Gnomo - La Niña Italiana</title>
+		<desc lang="es">El Rey de la Corte de los Gnomos llama a David pues sabe que sólo sus conocimientos médicos pueden salvar a una pequeña enferma, por culpa de un hombre. Pero el remedio es una lejana y rara flor... y son numerosos los peligros que acechan a quienes parten en su busca. ¿Logrará David salvar la vida de la niña?</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/david_el_gnomo_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802100000 +0200" stop="20260802114600 +0200" channel="/node/10078">
+		<title lang="es">El Mejor Día Del Año</title>
+		<desc lang="es">El film narra el viaje inspirador y el cambio vital de un joven a través del misterioso Yellow Day. Para muchos, el Día Amarillo es simplemente un día divertido de celebración mientras que para otros tiene una carga más trascendental. Para este joven, el Yellow Day se convierte en una aventura imaginativa en el que encuentra sus verdaderos héroes, desafía a sus miedos y encuentra el amor.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/yellow_day_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802114600 +0200" stop="20260802132400 +0200" channel="/node/10078">
+		<title lang="es">Pettson &amp; Findus</title>
+		<desc lang="es">Pettson &amp; Findus cuanta la historia divertida y entrañable sobre la amistad, confianza y el sentimiento de unidad. El señor Pettson vive en una pequeña casa, cortando madera, haciendo trabajos peculiares.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/pettson_y_findus_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802132400 +0200" stop="20260802151800 +0200" channel="/node/10078">
+		<title lang="es">Mi Hermano Persigue Dinosaurios</title>
+		<desc lang="es">Jack, de cinco años, recibe la emocionante noticia de que tendrá un hermano pequeño "con superpoderes", pero descubre que su hermano Gio, nacido con síndrome de Down, no es el superhéroe que imaginaba. A lo largo de su adolescencia, Jack lucha con la vergüenza, hasta que se da cuenta de que Gio sí tiene un poder especial: ser su mejor y más incondicional amigo.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/mi_hermano_persigue_dinosaurios_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802151800 +0200" stop="20260802170000 +0200" channel="/node/10078">
+		<title lang="es">Mi Mamá Lora</title>
+		<desc lang="es">Juana, una niña de 11 años, forma parte de una familia muy especial; tienen el don de transformarse en animales, pero ella no lo sabe. Lo descubre el día que su mamá se transforma en una lora. Tiene tres días para que recupere la forma humana de lo contrario quedará como lora para siempre.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/my_mother_is_a_parrot_thumbnail_16x9_widescreen_ush.jpg"/>
+	</programme>
+	<programme start="20260802170000 +0200" stop="20260802172900 +0200" channel="/node/10078">
+		<title lang="es">La Vuelta Al Mundo De Willy Fog - La Partida</title>
+		<desc lang="es">Rigodón y Tico se sienten felices en su nueva casa. Willy Fog llega antes de tiempo e informa a Rigodón de que tienen que salir esa misma noche para dar la vuelta al mundo. El Sr. Sullivan, que ha apostado en contra de Willy Fog, contrata a Transfer para que impida a Fog dar la vuelta al mundo de 80 días. Willy Fog y Rigodón, con Tico dentro del maletín, llegan a la estación donde les espera la multitud y sus amigos para despedirles.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/willy_fog_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802172900 +0200" stop="20260802180000 +0200" channel="/node/10078">
+		<title lang="es">La Vuelta Al Mundo De Willy Fog - El viaje accidentado</title>
+		<desc lang="es">El tren donde viajan nuestros amigos llega a Francia. Rigodón intenta encontrar un coche de caballos para ir a la estación de Lyon, pero le es muy difícil. Transfer, disfrazado de mujer, les propone llevarles en su coche. Durante el trayecto, Rigodón, que ha nacido en París, se da cuenta de que van en dirección contraria. Se organiza una pelea entre Transfer, Rigodón y Tico.</desc>
+		<icon src="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/willy_fog_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802180000 +0200" stop="20260802194600 +0200" channel="/node/10078">
+		<title lang="es">El Mejor Día Del Año</title>
+		<desc lang="es">El film narra el viaje inspirador y el cambio vital de un joven a través del misterioso Yellow Day. Para muchos, el Día Amarillo es simplemente un día divertido de celebración mientras que para otros tiene una carga más trascendental. Para este joven, el Yellow Day se convierte en una aventura imaginativa en el que encuentra sus verdaderos héroes, desafía a sus miedos y encuentra el amor.</desc>
+		<icon src="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/yellow_day_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802194600 +0200" stop="20260802212500 +0200" channel="/node/10078">
+		<title lang="es">Cool Dog</title>
+		<desc lang="es">Jimmy es un niño que vive con su padre, su madrastra y su mejor amigo, un perro llamado Rainy, en Luisiana. Cuando el padre de Jimmy recibe un ascenso en el trabajo, la familia debe mudarse a un apartamento de Nueva York donde no se permiten mascotas.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/cool_dog_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802212500 +0200" stop="20260802230500 +0200" channel="/node/10078">
+		<title lang="es">Pettson &amp; Findus</title>
+		<desc lang="es">Pettson &amp; Findus cuanta la historia divertida y entrañable sobre la amistad, confianza y el sentimiento de unidad. El señor Pettson vive en una pequeña casa, cortando madera, haciendo trabajos peculiares.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/pettson_y_findus_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802230500 +0200" stop="20260803005900 +0200" channel="/node/10078">
+		<title lang="es">Mi Hermano Persigue Dinosaurios</title>
+		<desc lang="es">Jack, de cinco años, recibe la emocionante noticia de que tendrá un hermano pequeño "con superpoderes", pero descubre que su hermano Gio, nacido con síndrome de Down, no es el superhéroe que imaginaba. A lo largo de su adolescencia, Jack lucha con la vergüenza, hasta que se da cuenta de que Gio sí tiene un poder especial: ser su mejor y más incondicional amigo.</desc>
+		<icon src="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/360x180/mi_hermano_persigue_dinosaurios_thumbnail_16x9_widescreen_es.jpg"/>
+	</programme>
+	<programme start="20260802092000 +0200" stop="20260802100800 +0200" channel="/node/10409">
+		<title lang="es">Así en el Barrio como en el Cielo - Así en el barrio como en el cielo</title>
+		<desc lang="es">Así en el barrio como en el cielo es un cuento sobre los altibajos de la fortuna y el amor, sobre la impredecible vida.</desc>
+		<icon src="https://img2.static-ottera.com/prod/azt/video/thumbnails/widescreen/360x180/asi-en-el-barrio.jpg"/>
+	</programme>
+	<programme start="20260802100800 +0200" stop="20260802105700 +0200" channel="/node/10409">
+		<title lang="es">Así en el Barrio como en el Cielo - Así en el barrio como en el cielo</title>
+		<desc lang="es">Así en el barrio como en el cielo es un cuento sobre los altibajos de la fortuna y el amor, sobre la impredecible vida.</desc>
+		<icon src="https://img3.static-ottera.com/prod/azt/video/thumbnails/widescreen/360x180/asi-en-el-barrio.jpg"/>
+	</programme>
+	<programme start="20260802105700 +0200" stop="20260802114500 +0200" channel="/node/10409">
+		<title lang="es">Así en el Barrio como en el Cielo - Así en el barrio como en el cielo</title>
+		<desc lang="es">Así en el barrio como en el cielo es un cuento sobre los altibajos de la fortuna y el amor, sobre la impredecible vida.</desc>
+		<icon src="https://img3.static-ottera.com/prod/azt/video/thumbnails/widescreen/360x180/asi-en-el-barrio.jpg"/>
+	</programme>
+	<programme start="20260802114500 +0200" stop="20260802123500 +0200" channel="/node/10409">
+		<title lang="es">Así en el Barrio como en el Cielo - Así en el barrio como en el cielo</title>
+		<desc lang="es">Así en el barrio como en el cielo es un cuento sobre los altibajos de la fortuna y el amor, sobre la impredecible vida.</desc>
+		<icon src="https://img1.static-ottera.com/prod/azt/video/thumbnails/widescreen/360x180/asi-en-el-barrio.jpg"/>
+	</programme>
+	<programme start="20260802123500 +0200" stop="20260802132500 +0200" channel="/node/10409">
+		<title lang="es">Así en el Barrio como en el Cielo - Así en el barrio como en el cielo</title>
+		<desc lang="es">Así en el barrio como en el cielo es un cuento sobre los altibajos de la fortuna y el amor, sobre la impredecible vida.</desc>
+		<icon src="https://img1.static-ottera.com/prod/azt/video/thumbnails/widescreen/360x180/asi-en-el-barrio.jpg"/>
+	</programme>
+	<programme start="20260802132500 +0200" stop="20260802140000 +0200" channel="/node/10409">
+		<title lang="es">Así en el Barrio como en el Cielo - Así en el barrio como en el cielo</title>
+		<desc lang="es">Así en el barrio como en el cielo es un cuento sobre los altibajos de la fortuna y el amor, sobre la impredecible vida.</desc>
+		<icon src="https://img3.static-ottera.com/prod/azt/video/thumbnails/widescreen/360x180/asi-en-el-barrio.jpg"/>
+	</programme>
+	<programme start="20260802140000 +0200" stop="20260802144700 +0200" channel="/node/10409">
+		<title lang="es">Así en el Barrio como en el Cielo - Así en el barrio como en el cielo</title>
+		<desc lang="es">Así en el barrio como en el cielo es un cuento sobre los altibajos de la fortuna y el amor, sobre la impredecible vida.</desc>
+		<icon src="https://img3.static-ottera.com/prod/azt/video/thumbnails/widescreen/360x180/asi-en-el-barrio.jpg"/>
+	</programme>
+	<programme start="20260802144700 +0200" stop="20260802153700 +0200" channel="/node/10409">
+		<title lang="es">Así en el Barrio como en el Cielo - Así en el barrio como en el cielo</title>
+		<desc lang="es">Así en el barrio como en el cielo es un cuento sobre los altibajos de la fortuna y el amor, sobre la impredecible vida.</desc>
+		<icon src="https://img2.static-ottera.com/prod/azt/video/thumbnails/widescreen/360x180/asi-en-el-barrio.jpg"/>
+	</programme>
+	<programme start="20260802153700 +0200" stop="20260802162500 +0200" channel="/node/10409">
+		<title lang="es">Así en el Barrio como en el Cielo - Así en el barrio como en el cielo</title>
+		<desc lang="es">Así en el barrio como en el cielo es un cuento sobre los altibajos de la fortuna y el amor, sobre la impredecible vida.</desc>
+		<icon src="https://img1.static-ottera.com/prod/azt/video/thumbnails/widescreen/360x180/asi-en-el-barrio.jpg"/>
+	</programme>
+	<programme start="20260802162500 +0200" stop="20260802171500 +0200" channel="/node/10409">
+		<title lang="es">Así en el Barrio como en el Cielo - Así en el barrio como en el cielo</title>
+		<desc lang="es">Así en el barrio como en el cielo es un cuento sobre los altibajos de la fortuna y el amor, sobre la impredecible vida.</desc>
+		<icon src="https://img1.static-ottera.com/prod/azt/video/thumbnails/widescreen/360x180/asi-en-el-barrio.jpg"/>
+	</programme>
+	<programme start="20260802171500 +0200" stop="20260802180300 +0200" channel="/node/10409">
+		<title lang="es">Así en el Barrio como en el Cielo - Así en el barrio como en el cielo</title>
+		<desc lang="es">Así en el barrio como en el cielo es un cuento sobre los altibajos de la fortuna y el amor, sobre la impredecible vida.</desc>
+		<icon src="https://img2.static-ottera.com/prod/azt/video/thumbnails/widescreen/360x180/asi-en-el-barrio.jpg"/>
+	</programme>
+	<programme start="20260802180300 +0200" stop="20260802185200 +0200" channel="/node/10409">
+		<title lang="es">Así en el Barrio como en el Cielo - Así en el barrio como en el cielo</title>
+		<desc lang="es">Así en el barrio como en el cielo es un cuento sobre los altibajos de la fortuna y el amor, sobre la impredecible vida.</desc>
+		<icon src="https://img1.static-ottera.com/prod/azt/video/thumbnails/widescreen/360x180/asi-en-el-barrio.jpg"/>
+	</programme>
+</tv>
